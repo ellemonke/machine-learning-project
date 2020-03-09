@@ -1,0 +1,1737 @@
+,Unnamed: 0,country_name,indicator_name,year,value,hdi
+6967,0,Afghanistan,Education Index,2014,0.40299999999999997,0.488
+6968,1,Albania,Education Index,2014,0.774,0.787
+6969,2,Algeria,Education Index,2014,0.662,0.7490000000000001
+6970,3,Andorra,Education Index,2014,0.715,0.853
+6971,4,Angola,Education Index,2014,0.46,0.557
+6972,5,Antigua,Education Index,2014,0.652,
+6973,6,Argentina,Education Index,2014,0.826,0.825
+6974,7,Armenia,Education Index,2014,0.746,0.746
+6975,8,Australia,Education Index,2014,0.9079999999999999,0.929
+6976,9,Austria,Education Index,2014,0.8540000000000001,0.904
+6977,10,Azerbaijan,Education Index,2014,0.6729999999999999,0.746
+6978,11,Bahamas,Education Index,2014,0.727,0.7959999999999999
+6979,12,Bahrain,Education Index,2014,0.685,0.81
+6980,13,Bangladesh,Education Index,2014,0.451,0.5720000000000001
+6981,14,Barbados,Education Index,2014,0.777,0.812
+6982,15,Belarus,Education Index,2014,0.838,0.8109999999999999
+6983,16,Belgium,Education Index,2014,0.883,0.91
+6984,17,Belize,Education Index,2014,0.669,0.71
+6985,18,Benin,Education Index,2014,0.46,0.505
+6986,19,Bhutan,Education Index,2014,0.434,0.601
+6987,20,Bolivia,Education Index,2014,0.66,
+6988,21,Bosnia,Education Index,2014,0.695,
+6989,22,Botswana,Education Index,2014,0.653,0.7090000000000001
+6990,23,Brazil,Education Index,2014,0.674,0.755
+6991,24,Brunei,Education Index,2014,0.71,
+6992,25,Bulgaria,Education Index,2014,0.7859999999999999,0.797
+6993,26,Burkina,Education Index,2014,0.264,
+6994,27,Burundi,Education Index,2014,0.419,0.429
+6995,28,Cabo,Education Index,2014,0.5379999999999999,
+6996,29,Cambodia,Education Index,2014,0.465,0.561
+6997,30,Cameroon,Education Index,2014,0.531,0.54
+6998,31,Canada,Education Index,2014,0.878,0.914
+6999,32,Central,Education Index,2014,0.33399999999999996,
+7000,33,Chad,Education Index,2014,0.295,0.406
+7001,34,Chile,Education Index,2014,0.784,0.8340000000000001
+7002,35,China,Education Index,2014,0.633,0.735
+7003,36,Colombia,Education Index,2014,0.6659999999999999,0.75
+7004,37,Comoros,Education Index,2014,0.47,0.534
+7005,38,Congo,Education Index,2014,0.522,0.595
+7006,39,Congo,Education Index,2014,0.484,0.595
+7007,40,Costa,Education Index,2014,0.713,
+7008,41,Croatia,Education Index,2014,0.797,0.8270000000000001
+7009,42,Cuba,Education Index,2014,0.765,0.764
+7010,43,Cyprus,Education Index,2014,0.7929999999999999,0.856
+7011,44,Czechia,Education Index,2014,0.893,0.879
+7012,45,Côte,Education Index,2014,0.389,
+7013,46,Denmark,Education Index,2014,0.927,0.9279999999999999
+7014,47,Djibouti,Education Index,2014,0.314,0.475
+7015,48,Dominica,Education Index,2014,0.631,0.732
+7016,49,Dominican,Education Index,2014,0.6409999999999999,
+7017,50,Ecuador,Education Index,2014,0.695,0.75
+7018,51,Egypt,Education Index,2014,0.586,0.6829999999999999
+7019,52,El,Education Index,2014,0.568,
+7020,53,Equatorial,Education Index,2014,0.439,
+7021,54,Eritrea,Education Index,2014,0.29,0.436
+7022,55,Estonia,Education Index,2014,0.87,0.865
+7023,56,Eswatini,Education Index,2014,0.532,
+7024,57,Ethiopia,Education Index,2014,0.32299999999999995,0.446
+7025,58,Fiji,Education Index,2014,0.753,0.7120000000000001
+7026,59,Finland,Education Index,2014,0.9129999999999999,0.9179999999999999
+7027,60,France,Education Index,2014,0.8109999999999999,0.887
+7028,61,Gabon,Education Index,2014,0.618,0.688
+7029,62,Gambia,Education Index,2014,0.36200000000000004,0.449
+7030,63,Georgia,Education Index,2014,0.816,0.764
+7031,64,Germany,Education Index,2014,0.9359999999999999,0.93
+7032,65,Ghana,Education Index,2014,0.54,0.5770000000000001
+7033,66,Greece,Education Index,2014,0.831,0.866
+7034,67,Grenada,Education Index,2014,0.747,0.752
+7035,68,Guatemala,Education Index,2014,0.51,0.643
+7036,69,Guinea,Education Index,2014,0.34,0.446
+7037,70,Guinea-Bissau,Education Index,2014,0.397,0.45
+7038,71,Guyana,Education Index,2014,0.597,0.66
+7039,72,Haiti,Education Index,2014,0.424,0.488
+7040,73,Honduras,Education Index,2014,0.484,0.606
+7041,74,Hong,Education Index,2014,0.846,
+7042,75,Hungary,Education Index,2014,0.821,0.833
+7043,76,Iceland,Education Index,2014,0.9059999999999999,0.924
+7044,77,India,Education Index,2014,0.53,0.618
+7045,78,Indonesia,Education Index,2014,0.615,0.691
+7046,79,Iran,Education Index,2014,0.738,
+7047,80,Iraq,Education Index,2014,0.501,0.662
+7048,81,Ireland,Education Index,2014,0.91,0.92
+7049,82,Israel,Education Index,2014,0.875,0.9
+7050,83,Italy,Education Index,2014,0.7879999999999999,0.8740000000000001
+7051,84,Jamaica,Education Index,2014,0.6809999999999999,0.72
+7052,85,Japan,Education Index,2014,0.838,0.904
+7053,86,Jordan,Education Index,2014,0.672,0.72
+7054,87,Kazakhstan,Education Index,2014,0.8059999999999999,0.7979999999999999
+7055,88,Kenya,Education Index,2014,0.51,0.556
+7056,89,Kiribati,Education Index,2014,0.595,0.613
+7057,90,Korea,Education Index,2014,0.862,
+7058,91,Kuwait,Education Index,2014,0.605,0.8
+7059,92,Kyrgyzstan,Education Index,2014,0.728,0.6629999999999999
+7060,93,Lao,Education Index,2014,0.47700000000000004,
+7061,94,Latvia,Education Index,2014,0.856,0.836
+7062,95,Lebanon,Education Index,2014,0.598,0.732
+7063,96,Lesotho,Education Index,2014,0.502,0.493
+7064,97,Liberia,Education Index,2014,0.42100000000000004,0.46399999999999997
+7065,98,Libya,Education Index,2014,0.609,0.693
+7066,99,Liechtenstein,Education Index,2014,0.818,0.9109999999999999
+7067,100,Lithuania,Education Index,2014,0.878,0.852
+7068,101,Luxembourg,Education Index,2014,0.7829999999999999,0.895
+7069,102,Madagascar,Education Index,2014,0.494,0.512
+7070,103,Malawi,Education Index,2014,0.456,0.47200000000000003
+7071,104,Malaysia,Education Index,2014,0.708,0.792
+7072,105,Maldives,Education Index,2014,0.546,0.7020000000000001
+7073,106,Mali,Education Index,2014,0.285,0.414
+7074,107,Malta,Education Index,2014,0.7979999999999999,0.868
+7075,109,Mauritania,Education Index,2014,0.381,0.518
+7076,110,Mauritius,Education Index,2014,0.7290000000000001,0.7859999999999999
+7077,111,Mexico,Education Index,2014,0.655,0.754
+7078,112,Micronesia,Education Index,2014,0.561,
+7079,113,Moldova,Education Index,2014,0.713,
+7080,114,Mongolia,Education Index,2014,0.746,0.733
+7081,115,Montenegro,Education Index,2014,0.7909999999999999,0.8029999999999999
+7082,116,Morocco,Education Index,2014,0.511,0.653
+7083,117,Mozambique,Education Index,2014,0.36700000000000005,0.42
+7084,118,Myanmar,Education Index,2014,0.431,0.5579999999999999
+7085,119,Namibia,Education Index,2014,0.565,0.631
+7086,120,Nepal,Education Index,2014,0.488,0.562
+7087,121,Netherlands,Education Index,2014,0.902,0.925
+7088,122,New,Education Index,2014,0.907,
+7089,123,Nicaragua,Education Index,2014,0.5529999999999999,0.64
+7090,124,Niger,Education Index,2014,0.217,0.353
+7091,125,Nigeria,Education Index,2014,0.47100000000000003,0.523
+7092,126,North,Education Index,2014,0.6759999999999999,
+7093,127,Norway,Education Index,2014,0.907,0.945
+7094,128,Oman,Education Index,2014,0.6940000000000001,0.815
+7095,129,Pakistan,Education Index,2014,0.395,0.546
+7096,130,Palau,Education Index,2014,0.863,0.809
+7097,131,"Palestine,",Education Index,2014,0.655,
+7098,132,Panama,Education Index,2014,0.6809999999999999,0.779
+7099,133,Papua,Education Index,2014,0.42,
+7100,134,Paraguay,Education Index,2014,0.624,0.7120000000000001
+7101,135,Peru,Education Index,2014,0.696,0.752
+7102,136,Philippines,Education Index,2014,0.6609999999999999,0.6970000000000001
+7103,137,Poland,Education Index,2014,0.8490000000000001,0.853
+7104,138,Portugal,Education Index,2014,0.755,0.84
+7105,139,Qatar,Education Index,2014,0.679,0.8540000000000001
+7106,140,Romania,Education Index,2014,0.765,0.8029999999999999
+7107,141,Russian,Education Index,2014,0.8059999999999999,
+7108,142,Rwanda,Education Index,2014,0.445,0.513
+7109,143,Saint,Education Index,2014,0.6579999999999999,
+7110,144,Saint,Education Index,2014,0.64,
+7111,145,Saint,Education Index,2014,0.65,
+7112,146,Samoa,Education Index,2014,0.7,0.698
+7113,147,Sao,Education Index,2014,0.5,
+7114,148,Saudi,Education Index,2014,0.787,
+7115,149,Senegal,Education Index,2014,0.348,0.501
+7116,150,Serbia,Education Index,2014,0.7559999999999999,0.78
+7117,151,Seychelles,Education Index,2014,0.754,0.7959999999999999
+7118,152,Sierra,Education Index,2014,0.374,
+7119,153,Singapore,Education Index,2014,0.828,0.9279999999999999
+7120,154,Slovakia,Education Index,2014,0.821,0.845
+7121,155,Slovenia,Education Index,2014,0.8759999999999999,0.8859999999999999
+7122,156,Solomon,Education Index,2014,0.466,
+7123,157,South,Education Index,2014,0.705,
+7124,158,South,Education Index,2014,0.309,
+7125,159,Spain,Education Index,2014,0.813,0.88
+7126,160,Sri,Education Index,2014,0.7490000000000001,
+7127,161,Sudan,Education Index,2014,0.327,0.496
+7128,162,Suriname,Education Index,2014,0.642,0.726
+7129,163,Sweden,Education Index,2014,0.909,0.929
+7130,164,Switzerland,Education Index,2014,0.8909999999999999,0.9390000000000001
+7131,165,Syrian,Education Index,2014,0.431,
+7132,166,Tajikistan,Education Index,2014,0.664,0.642
+7133,167,Tanzania,Education Index,2014,0.418,
+7134,168,Thailand,Education Index,2014,0.629,0.7390000000000001
+7135,169,Timor-Leste,Education Index,2014,0.498,0.608
+7136,170,Togo,Education Index,2014,0.491,0.495
+7137,171,Tonga,Education Index,2014,0.7340000000000001,0.6990000000000001
+7138,172,Trinidad,Education Index,2014,0.7040000000000001,
+7139,173,Tunisia,Education Index,2014,0.64,0.728
+7140,174,Turkey,Education Index,2014,0.7040000000000001,0.792
+7141,175,Turkmenistan,Education Index,2014,0.627,0.696
+7142,176,Uganda,Education Index,2014,0.495,0.509
+7143,177,Ukraine,Education Index,2014,0.794,0.747
+7144,178,United,Education Index,2014,0.711,
+7145,179,United,Education Index,2014,0.92,
+7146,180,United,Education Index,2014,0.892,
+7147,181,Uruguay,Education Index,2014,0.736,0.8
+7148,182,Uzbekistan,Education Index,2014,0.7020000000000001,0.693
+7149,183,Vanuatu,Education Index,2014,0.529,0.589
+7150,184,Venezuela,Education Index,2014,0.725,
+7151,185,Viet,Education Index,2014,0.613,
+7152,186,Yemen,Education Index,2014,0.34299999999999997,0.504
+7153,187,Zambia,Education Index,2014,0.53,0.565
+7154,188,Zimbabwe,Education Index,2014,0.557,0.537
+7155,189,Afghanistan,Education Index,2015,0.405,0.49
+7156,190,Albania,Education Index,2015,0.77,0.7879999999999999
+7157,191,Algeria,Education Index,2015,0.6629999999999999,0.7509999999999999
+7158,192,Andorra,Education Index,2015,0.7040000000000001,0.85
+7159,193,Angola,Education Index,2015,0.47200000000000003,0.565
+7160,194,Antigua,Education Index,2015,0.654,
+7161,195,Argentina,Education Index,2015,0.8320000000000001,0.828
+7162,196,Armenia,Education Index,2015,0.746,0.748
+7163,197,Australia,Education Index,2015,0.9179999999999999,0.9329999999999999
+7164,198,Austria,Education Index,2015,0.861,0.9059999999999999
+7165,199,Azerbaijan,Education Index,2015,0.68,0.7490000000000001
+7166,200,Bahamas,Education Index,2015,0.731,0.799
+7167,201,Bahrain,Education Index,2015,0.728,0.8340000000000001
+7168,202,Bangladesh,Education Index,2015,0.479,0.588
+7169,203,Barbados,Education Index,2015,0.777,0.812
+7170,204,Belarus,Education Index,2015,0.8370000000000001,0.8109999999999999
+7171,205,Belgium,Education Index,2015,0.89,0.9129999999999999
+7172,206,Belize,Education Index,2015,0.674,0.715
+7173,207,Benin,Education Index,2015,0.473,0.51
+7174,208,Bhutan,Education Index,2015,0.436,0.606
+7175,209,Bolivia,Education Index,2015,0.665,
+7176,210,Bosnia,Education Index,2015,0.687,
+7177,211,Botswana,Education Index,2015,0.657,0.7140000000000001
+7178,212,Brazil,Education Index,2015,0.677,0.755
+7179,213,Brunei,Education Index,2015,0.705,
+7180,214,Bulgaria,Education Index,2015,0.8109999999999999,0.807
+7181,215,Burkina,Education Index,2015,0.27699999999999997,
+7182,216,Burundi,Education Index,2015,0.424,0.42700000000000005
+7183,217,Cabo,Education Index,2015,0.54,
+7184,218,Cambodia,Education Index,2015,0.46799999999999997,0.5660000000000001
+7185,219,Cameroon,Education Index,2015,0.545,0.5479999999999999
+7186,220,Canada,Education Index,2015,0.885,0.917
+7187,221,Central,Education Index,2015,0.33899999999999997,
+7188,222,Chad,Education Index,2015,0.28300000000000003,0.40299999999999997
+7189,223,Chile,Education Index,2015,0.792,0.8390000000000001
+7190,224,China,Education Index,2015,0.642,0.742
+7191,225,Colombia,Education Index,2015,0.669,0.753
+7192,226,Comoros,Education Index,2015,0.47100000000000003,0.535
+7193,227,Congo,Education Index,2015,0.5329999999999999,0.614
+7194,228,Congo,Education Index,2015,0.478,0.614
+7195,229,Costa,Education Index,2015,0.71,
+7196,230,Croatia,Education Index,2015,0.7959999999999999,0.83
+7197,231,Cuba,Education Index,2015,0.768,0.768
+7198,232,Cyprus,Education Index,2015,0.8009999999999999,0.8640000000000001
+7199,233,Czechia,Education Index,2015,0.8909999999999999,0.882
+7200,234,Côte,Education Index,2015,0.418,
+7201,235,Denmark,Education Index,2015,0.9179999999999999,0.9259999999999999
+7202,236,Djibouti,Education Index,2015,0.315,0.48200000000000004
+7203,237,Dominica,Education Index,2015,0.628,0.7290000000000001
+7204,238,Dominican,Education Index,2015,0.652,
+7205,239,Ecuador,Education Index,2015,0.7170000000000001,0.758
+7206,240,Egypt,Education Index,2015,0.597,0.69
+7207,241,El,Education Index,2015,0.562,
+7208,242,Equatorial,Education Index,2015,0.44,
+7209,243,Eritrea,Education Index,2015,0.27899999999999997,0.433
+7210,244,Estonia,Education Index,2015,0.878,0.871
+7211,245,Eswatini,Education Index,2015,0.537,
+7212,246,Ethiopia,Education Index,2015,0.327,0.45299999999999996
+7213,247,Fiji,Education Index,2015,0.762,0.718
+7214,248,Finland,Education Index,2015,0.914,0.919
+7215,249,France,Education Index,2015,0.812,0.888
+7216,250,Gabon,Education Index,2015,0.623,0.6920000000000001
+7217,251,Gambia,Education Index,2015,0.36700000000000005,0.45399999999999996
+7218,252,Georgia,Education Index,2015,0.831,0.7709999999999999
+7219,253,Germany,Education Index,2015,0.94,0.9329999999999999
+7220,254,Ghana,Education Index,2015,0.555,0.585
+7221,255,Greece,Education Index,2015,0.833,0.868
+7222,256,Grenada,Education Index,2015,0.754,0.7559999999999999
+7223,257,Guatemala,Education Index,2015,0.512,0.647
+7224,258,Guinea,Education Index,2015,0.34,0.449
+7225,259,Guinea-Bissau,Education Index,2015,0.39899999999999997,0.45299999999999996
+7226,260,Guyana,Education Index,2015,0.598,0.6629999999999999
+7227,261,Haiti,Education Index,2015,0.43,0.49200000000000005
+7228,262,Honduras,Education Index,2015,0.494,0.613
+7229,263,Hong,Education Index,2015,0.85,
+7230,264,Hungary,Education Index,2015,0.818,0.835
+7231,265,Iceland,Education Index,2015,0.9059999999999999,0.927
+7232,266,India,Education Index,2015,0.54,0.627
+7233,267,Indonesia,Education Index,2015,0.62,0.696
+7234,268,Iran,Education Index,2015,0.7390000000000001,
+7235,269,Iraq,Education Index,2015,0.506,0.665
+7236,270,Ireland,Education Index,2015,0.91,0.9259999999999999
+7237,271,Israel,Education Index,2015,0.875,0.9009999999999999
+7238,272,Italy,Education Index,2015,0.7879999999999999,0.875
+7239,273,Jamaica,Education Index,2015,0.687,0.722
+7240,274,Japan,Education Index,2015,0.8390000000000001,0.9059999999999999
+7241,275,Jordan,Education Index,2015,0.674,0.721
+7242,276,Kazakhstan,Education Index,2015,0.8059999999999999,0.8059999999999999
+7243,277,Kenya,Education Index,2015,0.513,0.562
+7244,278,Kiribati,Education Index,2015,0.583,0.619
+7245,279,Korea,Education Index,2015,0.862,
+7246,280,Kuwait,Education Index,2015,0.62,0.807
+7247,281,Kyrgyzstan,Education Index,2015,0.73,0.6659999999999999
+7248,282,Lao,Education Index,2015,0.484,
+7249,283,Latvia,Education Index,2015,0.863,0.8420000000000001
+7250,284,Lebanon,Education Index,2015,0.593,0.728
+7251,285,Lesotho,Education Index,2015,0.498,0.499
+7252,286,Liberia,Education Index,2015,0.415,0.46299999999999997
+7253,287,Libya,Education Index,2015,0.606,0.691
+7254,288,Liechtenstein,Education Index,2015,0.82,0.912
+7255,289,Lithuania,Education Index,2015,0.883,0.855
+7256,290,Luxembourg,Education Index,2015,0.7879999999999999,0.899
+7257,291,Madagascar,Education Index,2015,0.498,0.514
+7258,292,Malawi,Education Index,2015,0.457,0.475
+7259,293,Malaysia,Education Index,2015,0.713,0.797
+7260,294,Maldives,Education Index,2015,0.5589999999999999,0.7090000000000001
+7261,295,Mali,Education Index,2015,0.27399999999999997,0.41200000000000003
+7262,296,Malta,Education Index,2015,0.81,0.877
+7263,298,Mauritania,Education Index,2015,0.385,0.521
+7264,299,Mauritius,Education Index,2015,0.721,0.7859999999999999
+7265,300,Mexico,Education Index,2015,0.6659999999999999,0.759
+7266,301,Micronesia,Education Index,2015,0.56,
+7267,302,Moldova,Education Index,2015,0.7090000000000001,
+7268,303,Mongolia,Education Index,2015,0.752,0.736
+7269,304,Montenegro,Education Index,2015,0.792,0.807
+7270,305,Morocco,Education Index,2015,0.518,0.66
+7271,306,Mozambique,Education Index,2015,0.373,0.428
+7272,307,Myanmar,Education Index,2015,0.436,0.565
+7273,308,Namibia,Education Index,2015,0.569,0.637
+7274,309,Nepal,Education Index,2015,0.495,0.568
+7275,310,Netherlands,Education Index,2015,0.903,0.927
+7276,311,New,Education Index,2015,0.914,
+7277,312,Nicaragua,Education Index,2015,0.555,0.644
+7278,313,Niger,Education Index,2015,0.226,0.36
+7279,314,Nigeria,Education Index,2015,0.474,0.527
+7280,315,North,Education Index,2015,0.6890000000000001,
+7281,316,Norway,Education Index,2015,0.912,0.948
+7282,317,Oman,Education Index,2015,0.7170000000000001,0.8270000000000001
+7283,318,Pakistan,Education Index,2015,0.39799999999999996,0.55
+7284,319,Palau,Education Index,2015,0.8290000000000001,0.8029999999999999
+7285,320,"Palestine,",Education Index,2015,0.657,
+7286,321,Panama,Education Index,2015,0.6809999999999999,0.782
+7287,322,Papua,Education Index,2015,0.429,
+7288,323,Paraguay,Education Index,2015,0.635,0.718
+7289,324,Peru,Education Index,2015,0.684,0.75
+7290,325,Philippines,Education Index,2015,0.665,0.7020000000000001
+7291,326,Poland,Education Index,2015,0.855,0.858
+7292,327,Portugal,Education Index,2015,0.757,0.843
+7293,328,Qatar,Education Index,2015,0.67,0.851
+7294,329,Romania,Education Index,2015,0.767,0.8059999999999999
+7295,330,Russian,Education Index,2015,0.821,
+7296,331,Rwanda,Education Index,2015,0.434,0.515
+7297,332,Saint,Education Index,2015,0.654,
+7298,333,Saint,Education Index,2015,0.664,
+7299,334,Saint,Education Index,2015,0.653,
+7300,335,Samoa,Education Index,2015,0.698,0.6990000000000001
+7301,336,Sao,Education Index,2015,0.532,
+7302,337,Saudi,Education Index,2015,0.794,
+7303,338,Senegal,Education Index,2015,0.349,0.504
+7304,339,Serbia,Education Index,2015,0.7659999999999999,0.785
+7305,340,Seychelles,Education Index,2015,0.763,0.8009999999999999
+7306,341,Sierra,Education Index,2015,0.382,
+7307,342,Singapore,Education Index,2015,0.828,0.929
+7308,343,Slovakia,Education Index,2015,0.823,0.8490000000000001
+7309,344,Slovenia,Education Index,2015,0.875,0.8859999999999999
+7310,345,Solomon,Education Index,2015,0.46799999999999997,
+7311,346,South,Education Index,2015,0.72,
+7312,347,South,Education Index,2015,0.301,
+7313,348,Spain,Education Index,2015,0.8190000000000001,0.885
+7314,349,Sri,Education Index,2015,0.7509999999999999,
+7315,350,Sudan,Education Index,2015,0.33299999999999996,0.501
+7316,351,Suriname,Education Index,2015,0.6579999999999999,0.73
+7317,352,Sweden,Education Index,2015,0.912,0.932
+7318,353,Switzerland,Education Index,2015,0.8959999999999999,0.943
+7319,354,Syrian,Education Index,2015,0.413,
+7320,355,Tajikistan,Education Index,2015,0.6629999999999999,0.642
+7321,356,Tanzania,Education Index,2015,0.431,
+7322,357,Thailand,Education Index,2015,0.64,0.746
+7323,358,Timor-Leste,Education Index,2015,0.49700000000000005,0.628
+7324,359,Togo,Education Index,2015,0.499,0.502
+7325,360,Tonga,Education Index,2015,0.772,0.7140000000000001
+7326,361,Trinidad,Education Index,2015,0.7140000000000001,
+7327,362,Tunisia,Education Index,2015,0.6459999999999999,0.731
+7328,363,Turkey,Education Index,2015,0.715,0.8
+7329,364,Turkmenistan,Education Index,2015,0.628,0.701
+7330,365,Uganda,Education Index,2015,0.501,0.515
+7331,366,Ukraine,Education Index,2015,0.7929999999999999,0.742
+7332,367,United,Education Index,2015,0.735,
+7333,368,United,Education Index,2015,0.9109999999999999,
+7334,369,United,Education Index,2015,0.894,
+7335,370,Uruguay,Education Index,2015,0.737,0.802
+7336,371,Uzbekistan,Education Index,2015,0.7040000000000001,0.696
+7337,372,Vanuatu,Education Index,2015,0.544,0.5920000000000001
+7338,373,Venezuela,Education Index,2015,0.7240000000000001,
+7339,374,Viet,Education Index,2015,0.619,
+7340,375,Yemen,Education Index,2015,0.342,0.493
+7341,376,Zambia,Education Index,2015,0.532,0.57
+7342,377,Zimbabwe,Education Index,2015,0.563,0.544
+7343,378,Afghanistan,Education Index,2016,0.406,0.491
+7344,379,Albania,Education Index,2016,0.7609999999999999,0.7879999999999999
+7345,380,Algeria,Education Index,2016,0.6679999999999999,0.755
+7346,381,Andorra,Education Index,2016,0.708,0.8540000000000001
+7347,382,Angola,Education Index,2016,0.48700000000000004,0.57
+7348,383,Antigua,Education Index,2016,0.654,
+7349,384,Argentina,Education Index,2016,0.8340000000000001,0.828
+7350,385,Armenia,Education Index,2016,0.755,0.7509999999999999
+7351,386,Australia,Education Index,2016,0.919,0.935
+7352,387,Austria,Education Index,2016,0.865,0.909
+7353,388,Azerbaijan,Education Index,2016,0.685,0.7490000000000001
+7354,389,Bahamas,Education Index,2016,0.735,0.8
+7355,390,Bahrain,Education Index,2016,0.74,0.8390000000000001
+7356,391,Bangladesh,Education Index,2016,0.496,0.599
+7357,392,Barbados,Education Index,2016,0.777,0.8140000000000001
+7358,393,Belarus,Education Index,2016,0.8390000000000001,0.812
+7359,394,Belgium,Education Index,2016,0.893,0.915
+7360,395,Belize,Education Index,2016,0.696,0.722
+7361,396,Benin,Education Index,2016,0.47200000000000003,0.512
+7362,397,Bhutan,Education Index,2016,0.43700000000000006,0.61
+7363,398,Bolivia,Education Index,2016,0.675,
+7364,399,Bosnia,Education Index,2016,0.708,
+7365,400,Botswana,Education Index,2016,0.659,0.7190000000000001
+7366,401,Brazil,Education Index,2016,0.685,0.757
+7367,402,Brunei,Education Index,2016,0.705,
+7368,403,Bulgaria,Education Index,2016,0.812,0.812
+7369,404,Burkina,Education Index,2016,0.28600000000000003,
+7370,405,Burundi,Education Index,2016,0.429,0.42700000000000005
+7371,406,Cabo,Education Index,2016,0.539,
+7372,407,Cambodia,Education Index,2016,0.47200000000000003,0.5720000000000001
+7373,408,Cameroon,Education Index,2016,0.5579999999999999,0.556
+7374,409,Canada,Education Index,2016,0.89,0.92
+7375,410,Central,Education Index,2016,0.35200000000000004,
+7376,411,Chad,Education Index,2016,0.278,0.39799999999999996
+7377,412,Chile,Education Index,2016,0.8,0.843
+7378,413,China,Education Index,2016,0.647,0.7490000000000001
+7379,414,Colombia,Education Index,2016,0.68,0.759
+7380,415,Comoros,Education Index,2016,0.474,0.537
+7381,416,Congo,Education Index,2016,0.539,0.613
+7382,417,Congo,Education Index,2016,0.486,0.613
+7383,418,Costa,Education Index,2016,0.713,
+7384,419,Croatia,Education Index,2016,0.797,0.8320000000000001
+7385,420,Cuba,Education Index,2016,0.7759999999999999,0.7709999999999999
+7386,421,Cyprus,Education Index,2016,0.8109999999999999,0.8690000000000001
+7387,422,Czechia,Education Index,2016,0.892,0.885
+7388,423,Côte,Education Index,2016,0.43700000000000006,
+7389,424,Denmark,Education Index,2016,0.92,0.9279999999999999
+7390,425,Djibouti,Education Index,2016,0.316,0.489
+7391,426,Dominica,Education Index,2016,0.623,0.7290000000000001
+7392,427,Dominican,Education Index,2016,0.655,
+7393,428,Ecuador,Education Index,2016,0.7140000000000001,0.7559999999999999
+7394,429,Egypt,Education Index,2016,0.604,0.695
+7395,430,El,Education Index,2016,0.564,
+7396,431,Equatorial,Education Index,2016,0.44,
+7397,432,Eritrea,Education Index,2016,0.27899999999999997,0.434
+7398,433,Estonia,Education Index,2016,0.882,0.875
+7399,434,Eswatini,Education Index,2016,0.541,
+7400,435,Ethiopia,Education Index,2016,0.331,0.46
+7401,436,Fiji,Education Index,2016,0.758,0.718
+7402,437,Finland,Education Index,2016,0.915,0.922
+7403,438,France,Education Index,2016,0.809,0.887
+7404,439,Gabon,Education Index,2016,0.628,0.696
+7405,440,Gambia,Education Index,2016,0.373,0.456
+7406,441,Georgia,Education Index,2016,0.845,0.7759999999999999
+7407,442,Germany,Education Index,2016,0.946,0.9359999999999999
+7408,443,Ghana,Education Index,2016,0.557,0.5870000000000001
+7409,444,Greece,Education Index,2016,0.8240000000000001,0.866
+7410,445,Grenada,Education Index,2016,0.758,0.76
+7411,446,Guatemala,Education Index,2016,0.511,0.648
+7412,447,Guinea,Education Index,2016,0.34,0.456
+7413,448,Guinea-Bissau,Education Index,2016,0.401,0.457
+7414,449,Guyana,Education Index,2016,0.6,0.6659999999999999
+7415,450,Haiti,Education Index,2016,0.43700000000000006,0.49700000000000005
+7416,451,Honduras,Education Index,2016,0.501,0.618
+7417,452,Hong,Education Index,2016,0.855,
+7418,453,Hungary,Education Index,2016,0.815,0.838
+7419,454,Iceland,Education Index,2016,0.912,0.932
+7420,455,India,Education Index,2016,0.555,0.637
+7421,456,Indonesia,Education Index,2016,0.623,0.7
+7422,457,Iran,Education Index,2016,0.747,
+7423,458,Iraq,Education Index,2016,0.51,0.672
+7424,459,Ireland,Education Index,2016,0.9179999999999999,0.9359999999999999
+7425,460,Israel,Education Index,2016,0.8740000000000001,0.902
+7426,461,Italy,Education Index,2016,0.79,0.878
+7427,462,Jamaica,Education Index,2016,0.687,0.722
+7428,463,Japan,Education Index,2016,0.846,0.91
+7429,464,Jordan,Education Index,2016,0.6759999999999999,0.722
+7430,465,Kazakhstan,Education Index,2016,0.809,0.8079999999999999
+7431,466,Kenya,Education Index,2016,0.518,0.568
+7432,467,Kiribati,Education Index,2016,0.59,0.622
+7433,468,Korea,Education Index,2016,0.862,
+7434,469,Kuwait,Education Index,2016,0.623,0.809
+7435,470,Kyrgyzstan,Education Index,2016,0.735,0.669
+7436,471,Lao,Education Index,2016,0.485,
+7437,472,Latvia,Education Index,2016,0.865,0.845
+7438,473,Lebanon,Education Index,2016,0.588,0.725
+7439,474,Lesotho,Education Index,2016,0.499,0.507
+7440,475,Liberia,Education Index,2016,0.41700000000000004,0.46299999999999997
+7441,476,Libya,Education Index,2016,0.602,0.69
+7442,477,Liechtenstein,Education Index,2016,0.8270000000000001,0.915
+7443,478,Lithuania,Education Index,2016,0.887,0.86
+7444,479,Luxembourg,Education Index,2016,0.7979999999999999,0.904
+7445,480,Madagascar,Education Index,2016,0.494,0.515
+7446,481,Malawi,Education Index,2016,0.455,0.478
+7447,482,Malaysia,Education Index,2016,0.7190000000000001,0.8009999999999999
+7448,483,Maldives,Education Index,2016,0.563,0.713
+7449,484,Mali,Education Index,2016,0.284,0.42
+7450,485,Malta,Education Index,2016,0.818,0.8809999999999999
+7451,487,Mauritania,Education Index,2016,0.37799999999999995,0.519
+7452,488,Mauritius,Education Index,2016,0.728,0.79
+7453,489,Mexico,Education Index,2016,0.6779999999999999,0.764
+7454,490,Micronesia,Education Index,2016,0.5670000000000001,
+7455,491,Moldova,Education Index,2016,0.7070000000000001,
+7456,492,Mongolia,Education Index,2016,0.731,0.73
+7457,493,Montenegro,Education Index,2016,0.794,0.809
+7458,494,Morocco,Education Index,2016,0.5379999999999999,0.669
+7459,495,Mozambique,Education Index,2016,0.381,0.435
+7460,496,Myanmar,Education Index,2016,0.44,0.5710000000000001
+7461,497,Namibia,Education Index,2016,0.5710000000000001,0.639
+7462,498,Nepal,Education Index,2016,0.502,0.5720000000000001
+7463,499,Netherlands,Education Index,2016,0.9059999999999999,0.929
+7464,500,New,Education Index,2016,0.919,
+7465,501,Nicaragua,Education Index,2016,0.562,0.649
+7466,502,Niger,Education Index,2016,0.233,0.365
+7467,503,Nigeria,Education Index,2016,0.475,0.528
+7468,504,North,Education Index,2016,0.695,
+7469,505,Norway,Education Index,2016,0.9179999999999999,0.951
+7470,506,Oman,Education Index,2016,0.732,0.8340000000000001
+7471,507,Pakistan,Education Index,2016,0.40700000000000003,0.556
+7472,508,Palau,Education Index,2016,0.838,0.8079999999999999
+7473,509,"Palestine,",Education Index,2016,0.657,
+7474,510,Panama,Education Index,2016,0.6920000000000001,0.789
+7475,511,Papua,Education Index,2016,0.429,
+7476,512,Paraguay,Education Index,2016,0.631,0.718
+7477,513,Peru,Education Index,2016,0.691,0.755
+7478,514,Philippines,Education Index,2016,0.6629999999999999,0.7040000000000001
+7479,515,Poland,Education Index,2016,0.866,0.8640000000000001
+7480,516,Portugal,Education Index,2016,0.759,0.846
+7481,517,Qatar,Education Index,2016,0.6609999999999999,0.847
+7482,518,Romania,Education Index,2016,0.762,0.8079999999999999
+7483,519,Russian,Education Index,2016,0.826,
+7484,520,Rwanda,Education Index,2016,0.45,0.525
+7485,521,Saint,Education Index,2016,0.6579999999999999,
+7486,522,Saint,Education Index,2016,0.675,
+7487,523,Saint,Education Index,2016,0.6629999999999999,
+7488,524,Samoa,Education Index,2016,0.698,0.7040000000000001
+7489,525,Sao,Education Index,2016,0.534,
+7490,526,Saudi,Education Index,2016,0.794,
+7491,527,Senegal,Education Index,2016,0.348,0.506
+7492,528,Serbia,Education Index,2016,0.775,0.7909999999999999
+7493,529,Seychelles,Education Index,2016,0.7609999999999999,0.8009999999999999
+7494,530,Sierra,Education Index,2016,0.387,
+7495,531,Singapore,Education Index,2016,0.836,0.9329999999999999
+7496,532,Slovakia,Education Index,2016,0.8220000000000001,0.851
+7497,533,Slovenia,Education Index,2016,0.885,0.892
+7498,534,Solomon,Education Index,2016,0.465,
+7499,535,South,Education Index,2016,0.721,
+7500,536,South,Education Index,2016,0.301,
+7501,537,Spain,Education Index,2016,0.8220000000000001,0.888
+7502,538,Sri,Education Index,2016,0.7490000000000001,
+7503,539,Sudan,Education Index,2016,0.336,0.505
+7504,540,Suriname,Education Index,2016,0.659,0.726
+7505,541,Sweden,Education Index,2016,0.914,0.934
+7506,542,Switzerland,Education Index,2016,0.8959999999999999,0.943
+7507,543,Syrian,Education Index,2016,0.414,
+7508,544,Tajikistan,Education Index,2016,0.67,0.647
+7509,545,Tanzania,Education Index,2016,0.41600000000000004,
+7510,546,Thailand,Education Index,2016,0.65,0.753
+7511,547,Timor-Leste,Education Index,2016,0.495,0.628
+7512,548,Togo,Education Index,2016,0.506,0.506
+7513,549,Tonga,Education Index,2016,0.769,0.715
+7514,550,Trinidad,Education Index,2016,0.721,
+7515,551,Tunisia,Education Index,2016,0.6559999999999999,0.736
+7516,552,Turkey,Education Index,2016,0.71,0.8
+7517,553,Turkmenistan,Education Index,2016,0.628,0.706
+7518,554,Uganda,Education Index,2016,0.504,0.52
+7519,555,Ukraine,Education Index,2016,0.797,0.746
+7520,556,United,Education Index,2016,0.7390000000000001,
+7521,557,United,Education Index,2016,0.914,
+7522,558,United,Education Index,2016,0.899,
+7523,559,Uruguay,Education Index,2016,0.745,0.8059999999999999
+7524,560,Uzbekistan,Education Index,2016,0.708,0.701
+7525,561,Vanuatu,Education Index,2016,0.54,0.5920000000000001
+7526,562,Venezuela,Education Index,2016,0.722,
+7527,563,Viet,Education Index,2016,0.621,
+7528,564,Yemen,Education Index,2016,0.341,0.47700000000000004
+7529,565,Zambia,Education Index,2016,0.552,0.58
+7530,566,Zimbabwe,Education Index,2016,0.5670000000000001,0.5489999999999999
+7531,567,Afghanistan,Education Index,2017,0.408,0.493
+7532,568,Albania,Education Index,2017,0.758,0.789
+7533,569,Algeria,Education Index,2017,0.674,0.758
+7534,570,Andorra,Education Index,2017,0.701,0.852
+7535,571,Angola,Education Index,2017,0.498,0.5760000000000001
+7536,572,Antigua,Education Index,2017,0.655,
+7537,573,Argentina,Education Index,2017,0.8420000000000001,0.8320000000000001
+7538,574,Armenia,Education Index,2017,0.759,0.758
+7539,575,Australia,Education Index,2017,0.923,0.937
+7540,576,Austria,Education Index,2017,0.871,0.912
+7541,577,Azerbaijan,Education Index,2017,0.6890000000000001,0.752
+7542,578,Bahamas,Education Index,2017,0.741,0.804
+7543,579,Bahrain,Education Index,2017,0.738,0.8390000000000001
+7544,580,Bangladesh,Education Index,2017,0.513,0.609
+7545,581,Barbados,Education Index,2017,0.773,0.813
+7546,582,Belarus,Education Index,2017,0.838,0.815
+7547,583,Belgium,Education Index,2017,0.893,0.917
+7548,584,Belize,Education Index,2017,0.691,0.7190000000000001
+7549,585,Benin,Education Index,2017,0.472,0.515
+7550,586,Bhutan,Education Index,2017,0.441,0.615
+7551,587,Bolivia,Education Index,2017,0.69,
+7552,588,Bosnia,Education Index,2017,0.706,
+7553,589,Botswana,Education Index,2017,0.664,0.7240000000000001
+7554,590,Brazil,Education Index,2017,0.6890000000000001,0.76
+7555,591,Brunei,Education Index,2017,0.701,
+7556,592,Bulgaria,Education Index,2017,0.805,0.813
+7557,593,Burkina,Education Index,2017,0.298,
+7558,594,Burundi,Education Index,2017,0.413,0.42100000000000004
+7559,595,Cabo,Education Index,2017,0.5379999999999999,
+7560,596,Cambodia,Education Index,2017,0.476,0.578
+7561,597,Cameroon,Education Index,2017,0.564,0.56
+7562,598,Canada,Education Index,2017,0.8909999999999999,0.9209999999999999
+7563,599,Central,Education Index,2017,0.35200000000000004,
+7564,600,Chad,Education Index,2017,0.28800000000000003,0.401
+7565,601,Chile,Education Index,2017,0.807,0.845
+7566,602,China,Education Index,2017,0.647,0.753
+7567,603,Colombia,Education Index,2017,0.6829999999999999,0.76
+7568,604,Comoros,Education Index,2017,0.476,0.539
+7569,605,Congo,Education Index,2017,0.539,0.609
+7570,606,Congo,Education Index,2017,0.495,0.609
+7571,607,Costa,Education Index,2017,0.716,
+7572,608,Croatia,Education Index,2017,0.7959999999999999,0.835
+7573,609,Cuba,Education Index,2017,0.7909999999999999,0.777
+7574,610,Cyprus,Education Index,2017,0.8109999999999999,0.871
+7575,611,Czechia,Education Index,2017,0.892,0.888
+7576,612,Côte,Education Index,2017,0.441,
+7577,613,Denmark,Education Index,2017,0.92,0.929
+7578,614,Djibouti,Education Index,2017,0.316,0.49200000000000005
+7579,615,Dominica,Education Index,2017,0.62,0.723
+7580,616,Dominican,Education Index,2017,0.657,
+7581,617,Ecuador,Education Index,2017,0.7140000000000001,0.757
+7582,618,Egypt,Education Index,2017,0.605,0.696
+7583,619,El,Education Index,2017,0.5660000000000001,
+7584,620,Equatorial,Education Index,2017,0.441,
+7585,621,Eritrea,Education Index,2017,0.269,0.431
+7586,622,Estonia,Education Index,2017,0.8809999999999999,0.879
+7587,623,Eswatini,Education Index,2017,0.541,
+7588,624,Ethiopia,Education Index,2017,0.335,0.467
+7589,625,Fiji,Education Index,2017,0.762,0.721
+7590,626,Finland,Education Index,2017,0.915,0.924
+7591,627,France,Education Index,2017,0.8109999999999999,0.89
+7592,628,Gabon,Education Index,2017,0.633,0.7
+7593,629,Gambia,Education Index,2017,0.376,0.45899999999999996
+7594,630,Georgia,Education Index,2017,0.856,0.7829999999999999
+7595,631,Germany,Education Index,2017,0.946,0.938
+7596,632,Ghana,Education Index,2017,0.555,0.591
+7597,633,Greece,Education Index,2017,0.833,0.871
+7598,634,Grenada,Education Index,2017,0.75,0.76
+7599,635,Guatemala,Education Index,2017,0.511,0.649
+7600,636,Guinea,Education Index,2017,0.34,0.46299999999999997
+7601,637,Guinea-Bissau,Education Index,2017,0.402,0.46
+7602,638,Guyana,Education Index,2017,0.601,0.6679999999999999
+7603,639,Haiti,Education Index,2017,0.445,0.501
+7604,640,Honduras,Education Index,2017,0.503,0.621
+7605,641,Hong,Education Index,2017,0.86,
+7606,642,Hungary,Education Index,2017,0.816,0.841
+7607,643,Iceland,Education Index,2017,0.912,0.935
+7608,644,India,Education Index,2017,0.5579999999999999,0.643
+7609,645,Indonesia,Education Index,2017,0.625,0.7040000000000001
+7610,646,Iran,Education Index,2017,0.743,
+7611,647,Iraq,Education Index,2017,0.542,0.684
+7612,648,Ireland,Education Index,2017,0.918,0.9390000000000001
+7613,649,Israel,Education Index,2017,0.8759999999999999,0.904
+7614,650,Italy,Education Index,2017,0.7929999999999999,0.8809999999999999
+7615,651,Jamaica,Education Index,2017,0.6920000000000001,0.725
+7616,652,Japan,Education Index,2017,0.848,0.9129999999999999
+7617,653,Jordan,Education Index,2017,0.6759999999999999,0.722
+7618,654,Kazakhstan,Education Index,2017,0.813,0.813
+7619,655,Kenya,Education Index,2017,0.523,0.574
+7620,656,Kiribati,Education Index,2017,0.59,0.623
+7621,657,Korea,Education Index,2017,0.862,
+7622,658,Kuwait,Education Index,2017,0.625,0.809
+7623,659,Kyrgyzstan,Education Index,2017,0.7340000000000001,0.6709999999999999
+7624,660,Lao,Education Index,2017,0.485,
+7625,661,Latvia,Education Index,2017,0.867,0.8490000000000001
+7626,662,Lebanon,Education Index,2017,0.604,0.732
+7627,663,Lesotho,Education Index,2017,0.51,0.514
+7628,664,Liberia,Education Index,2017,0.422,0.466
+7629,665,Libya,Education Index,2017,0.607,0.7040000000000001
+7630,666,Liechtenstein,Education Index,2017,0.8270000000000001,0.9159999999999999
+7631,667,Lithuania,Education Index,2017,0.89,0.866
+7632,668,Luxembourg,Education Index,2017,0.802,0.9079999999999999
+7633,669,Madagascar,Education Index,2017,0.494,0.518
+7634,670,Malawi,Education Index,2017,0.455,0.48200000000000004
+7635,671,Malaysia,Education Index,2017,0.713,0.802
+7636,672,Maldives,Education Index,2017,0.564,0.716
+7637,673,Mali,Education Index,2017,0.29,0.426
+7638,674,Malta,Education Index,2017,0.818,0.883
+7639,675,Marshall,Education Index,2017,0.7070000000000001,
+7640,676,Mauritania,Education Index,2017,0.385,0.524
+7641,677,Mauritius,Education Index,2017,0.727,0.7929999999999999
+7642,678,Mexico,Education Index,2017,0.6779999999999999,0.765
+7643,679,Micronesia,Education Index,2017,0.574,
+7644,680,Moldova,Education Index,2017,0.708,
+7645,681,Mongolia,Education Index,2017,0.7340000000000001,0.7290000000000001
+7646,682,Montenegro,Education Index,2017,0.797,0.813
+7647,683,Morocco,Education Index,2017,0.547,0.675
+7648,684,Mozambique,Education Index,2017,0.389,0.442
+7649,685,Myanmar,Education Index,2017,0.444,0.5770000000000001
+7650,686,Namibia,Education Index,2017,0.581,0.643
+7651,687,Nepal,Education Index,2017,0.495,0.574
+7652,688,Netherlands,Education Index,2017,0.906,0.932
+7653,689,New,Education Index,2017,0.923,
+7654,690,Nicaragua,Education Index,2017,0.5660000000000001,0.653
+7655,691,Niger,Education Index,2017,0.245,0.373
+7656,692,Nigeria,Education Index,2017,0.486,0.5329999999999999
+7657,693,North,Education Index,2017,0.6970000000000001,
+7658,694,Norway,Education Index,2017,0.919,0.953
+7659,695,Oman,Education Index,2017,0.732,0.833
+7660,696,Pakistan,Education Index,2017,0.407,0.5579999999999999
+7661,697,Palau,Education Index,2017,0.847,0.8109999999999999
+7662,698,"Palestine,",Education Index,2017,0.66,
+7663,699,Panama,Education Index,2017,0.6970000000000001,0.7929999999999999
+7664,700,Papua,Education Index,2017,0.43,
+7665,701,Paraguay,Education Index,2017,0.634,0.722
+7666,702,Peru,Education Index,2017,0.691,0.7559999999999999
+7667,703,Philippines,Education Index,2017,0.667,0.7090000000000001
+7668,704,Poland,Education Index,2017,0.866,0.868
+7669,705,Portugal,Education Index,2017,0.759,0.848
+7670,706,Qatar,Education Index,2017,0.6609999999999999,0.848
+7671,707,Romania,Education Index,2017,0.762,0.813
+7672,708,Russian,Education Index,2017,0.8320000000000001,
+7673,709,Rwanda,Education Index,2017,0.453,0.529
+7674,710,Saint,Education Index,2017,0.6579999999999999,
+7675,711,Saint,Education Index,2017,0.6679999999999999,
+7676,712,Saint,Education Index,2017,0.664,
+7677,713,Samoa,Education Index,2017,0.701,0.706
+7678,714,Sao,Education Index,2017,0.557,
+7679,715,Saudi,Education Index,2017,0.794,
+7680,716,Senegal,Education Index,2017,0.349,0.51
+7681,717,Serbia,Education Index,2017,0.779,0.794
+7682,718,Seychelles,Education Index,2017,0.752,0.8
+7683,719,Sierra,Education Index,2017,0.399,
+7684,720,Singapore,Education Index,2017,0.8370000000000001,0.934
+7685,721,Slovakia,Education Index,2017,0.8240000000000001,0.8540000000000001
+7686,722,Slovenia,Education Index,2017,0.893,0.899
+7687,723,Solomon,Education Index,2017,0.469,
+7688,724,South,Education Index,2017,0.721,
+7689,725,South,Education Index,2017,0.301,
+7690,726,Spain,Education Index,2017,0.8240000000000001,0.8909999999999999
+7691,727,Sri,Education Index,2017,0.7490000000000001,
+7692,728,Sudan,Education Index,2017,0.337,0.507
+7693,729,Suriname,Education Index,2017,0.6609999999999999,0.722
+7694,730,Sweden,Education Index,2017,0.914,0.935
+7695,731,Switzerland,Education Index,2017,0.8959999999999999,0.943
+7696,732,Syrian,Education Index,2017,0.416,
+7697,733,Tajikistan,Education Index,2017,0.6729999999999999,0.6509999999999999
+7698,734,Tanzania,Education Index,2017,0.417,
+7699,735,Thailand,Education Index,2017,0.665,0.762
+7700,736,Timor-Leste,Education Index,2017,0.496,0.624
+7701,737,Togo,Education Index,2017,0.514,0.51
+7702,738,Tonga,Education Index,2017,0.77,0.7170000000000001
+7703,739,Trinidad,Education Index,2017,0.728,
+7704,740,Tunisia,Education Index,2017,0.659,0.738
+7705,741,Turkey,Education Index,2017,0.7120000000000001,0.805
+7706,742,Turkmenistan,Education Index,2017,0.628,0.708
+7707,743,Uganda,Education Index,2017,0.507,0.522
+7708,744,Ukraine,Education Index,2017,0.797,0.747
+7709,745,United,Education Index,2017,0.741,
+7710,746,United,Education Index,2017,0.914,
+7711,747,United,Education Index,2017,0.899,
+7712,748,Uruguay,Education Index,2017,0.745,0.807
+7713,749,Uzbekistan,Education Index,2017,0.718,0.7070000000000001
+7714,750,Vanuatu,Education Index,2017,0.542,0.595
+7715,751,Venezuela,Education Index,2017,0.7,
+7716,752,Viet,Education Index,2017,0.626,
+7717,753,Yemen,Education Index,2017,0.341,0.46299999999999997
+7718,754,Zambia,Education Index,2017,0.5720000000000001,0.589
+7719,755,Zimbabwe,Education Index,2017,0.568,0.5529999999999999
+7720,756,Afghanistan,Education Index,2018,0.413,0.496
+7721,757,Albania,Education Index,2018,0.758,0.7909999999999999
+7722,758,Algeria,Education Index,2018,0.675,0.759
+7723,759,Andorra,Education Index,2018,0.708,0.857
+7724,760,Angola,Education Index,2018,0.498,0.574
+7725,761,Antigua,Education Index,2018,0.655,
+7726,762,Argentina,Education Index,2018,0.8420000000000001,0.83
+7727,763,Armenia,Education Index,2018,0.759,0.76
+7728,764,Australia,Education Index,2018,0.923,0.938
+7729,765,Austria,Education Index,2018,0.871,0.914
+7730,766,Azerbaijan,Education Index,2018,0.6940000000000001,0.754
+7731,767,Bahamas,Education Index,2018,0.741,0.805
+7732,768,Bahrain,Education Index,2018,0.738,0.838
+7733,769,Bangladesh,Education Index,2018,0.513,0.614
+7734,770,Barbados,Education Index,2018,0.773,0.813
+7735,771,Belarus,Education Index,2018,0.8370000000000001,0.8170000000000001
+7736,772,Belgium,Education Index,2018,0.893,0.919
+7737,773,Belize,Education Index,2018,0.691,0.72
+7738,774,Benin,Education Index,2018,0.476,0.52
+7739,775,Bhutan,Education Index,2018,0.441,0.617
+7740,776,Bolivia,Education Index,2018,0.69,
+7741,777,Bosnia,Education Index,2018,0.706,
+7742,778,Botswana,Education Index,2018,0.664,0.728
+7743,779,Brazil,Education Index,2018,0.6890000000000001,0.7609999999999999
+7744,780,Brunei,Education Index,2018,0.703,
+7745,781,Bulgaria,Education Index,2018,0.805,0.816
+7746,782,Burkina,Education Index,2018,0.3,
+7747,783,Burundi,Education Index,2018,0.418,0.423
+7748,784,Cabo,Education Index,2018,0.5379999999999999,
+7749,785,Cambodia,Education Index,2018,0.476,0.581
+7750,786,Cameroon,Education Index,2018,0.564,0.563
+7751,787,Canada,Education Index,2018,0.8909999999999999,0.922
+7752,788,Central,Education Index,2018,0.353,
+7753,789,Chad,Education Index,2018,0.28800000000000003,0.401
+7754,790,Chile,Education Index,2018,0.807,0.847
+7755,791,China,Education Index,2018,0.649,0.758
+7756,792,Colombia,Education Index,2018,0.6829999999999999,0.7609999999999999
+7757,793,Comoros,Education Index,2018,0.476,0.5379999999999999
+7758,794,Congo,Education Index,2018,0.539,0.609
+7759,795,Congo,Education Index,2018,0.495,0.609
+7760,796,Costa,Education Index,2018,0.716,
+7761,797,Croatia,Education Index,2018,0.7959999999999999,0.8370000000000001
+7762,798,Cuba,Education Index,2018,0.7909999999999999,0.778
+7763,799,Cyprus,Education Index,2018,0.8109999999999999,0.873
+7764,800,Czechia,Education Index,2018,0.892,0.8909999999999999
+7765,801,Côte,Education Index,2018,0.441,
+7766,802,Denmark,Education Index,2018,0.92,0.93
+7767,803,Djibouti,Education Index,2018,0.313,0.495
+7768,804,Dominica,Education Index,2018,0.62,0.7240000000000001
+7769,805,Dominican,Education Index,2018,0.657,
+7770,806,Ecuador,Education Index,2018,0.7140000000000001,0.758
+7771,807,Egypt,Education Index,2018,0.608,0.7
+7772,808,El,Education Index,2018,0.5660000000000001,
+7773,809,Equatorial,Education Index,2018,0.441,
+7774,810,Eritrea,Education Index,2018,0.269,0.434
+7775,811,Estonia,Education Index,2018,0.8809999999999999,0.882
+7776,812,Eswatini,Education Index,2018,0.541,
+7777,813,Ethiopia,Education Index,2018,0.335,0.47
+7778,814,Fiji,Education Index,2018,0.764,0.7240000000000001
+7779,815,Finland,Education Index,2018,0.915,0.925
+7780,816,France,Education Index,2018,0.8109999999999999,0.8909999999999999
+7781,817,Gabon,Education Index,2018,0.636,0.7020000000000001
+7782,818,Gambia,Education Index,2018,0.386,0.466
+7783,819,Georgia,Education Index,2018,0.856,0.7859999999999999
+7784,820,Germany,Education Index,2018,0.946,0.9390000000000001
+7785,821,Ghana,Education Index,2018,0.5589999999999999,0.596
+7786,822,Greece,Education Index,2018,0.833,0.872
+7787,823,Grenada,Education Index,2018,0.755,0.763
+7788,824,Guatemala,Education Index,2018,0.511,0.6509999999999999
+7789,825,Guinea,Education Index,2018,0.34,0.466
+7790,826,Guinea-Bissau,Education Index,2018,0.402,0.461
+7791,827,Guyana,Education Index,2018,0.601,0.67
+7792,828,Haiti,Education Index,2018,0.445,0.503
+7793,829,Honduras,Education Index,2018,0.503,0.623
+7794,830,Hong,Education Index,2018,0.86,
+7795,831,Hungary,Education Index,2018,0.816,0.845
+7796,832,Iceland,Education Index,2018,0.918,0.938
+7797,833,India,Education Index,2018,0.5579999999999999,0.647
+7798,834,Indonesia,Education Index,2018,0.625,0.7070000000000001
+7799,835,Iran,Education Index,2018,0.743,
+7800,836,Iraq,Education Index,2018,0.5539999999999999,0.6890000000000001
+7801,837,Ireland,Education Index,2018,0.918,0.9420000000000001
+7802,838,Israel,Education Index,2018,0.8759999999999999,0.9059999999999999
+7803,839,Italy,Education Index,2018,0.7929999999999999,0.883
+7804,840,Jamaica,Education Index,2018,0.6920000000000001,0.726
+7805,841,Japan,Education Index,2018,0.85,0.915
+7806,842,Jordan,Education Index,2018,0.6779999999999999,0.723
+7807,843,Kazakhstan,Education Index,2018,0.8170000000000001,0.8170000000000001
+7808,844,Kenya,Education Index,2018,0.526,0.579
+7809,845,Kiribati,Education Index,2018,0.59,0.623
+7810,846,Korea,Education Index,2018,0.862,
+7811,847,Kuwait,Education Index,2018,0.625,0.8079999999999999
+7812,848,Kyrgyzstan,Education Index,2018,0.7340000000000001,0.674
+7813,849,Lao,Education Index,2018,0.481,
+7814,850,Latvia,Education Index,2018,0.871,0.8540000000000001
+7815,851,Lebanon,Education Index,2018,0.604,0.73
+7816,852,Lesotho,Education Index,2018,0.51,0.518
+7817,853,Liberia,Education Index,2018,0.422,0.465
+7818,854,Libya,Education Index,2018,0.607,0.708
+7819,855,Liechtenstein,Education Index,2018,0.8270000000000001,0.917
+7820,856,Lithuania,Education Index,2018,0.89,0.8690000000000001
+7821,857,Luxembourg,Education Index,2018,0.802,0.909
+7822,858,Madagascar,Education Index,2018,0.493,0.521
+7823,859,Malawi,Education Index,2018,0.459,0.485
+7824,860,Malaysia,Education Index,2018,0.713,0.804
+7825,861,Maldives,Education Index,2018,0.564,0.7190000000000001
+7826,862,Mali,Education Index,2018,0.29,0.42700000000000005
+7827,863,Malta,Education Index,2018,0.818,0.885
+7828,864,Marshall,Education Index,2018,0.7070000000000001,
+7829,865,Mauritania,Education Index,2018,0.389,0.527
+7830,866,Mauritius,Education Index,2018,0.73,0.7959999999999999
+7831,867,Mexico,Education Index,2018,0.684,0.767
+7832,868,Micronesia,Education Index,2018,0.578,
+7833,869,Moldova,Education Index,2018,0.708,
+7834,870,Mongolia,Education Index,2018,0.7340000000000001,0.735
+7835,871,Montenegro,Education Index,2018,0.797,0.816
+7836,872,Morocco,Education Index,2018,0.547,0.6759999999999999
+7837,873,Mozambique,Education Index,2018,0.389,0.446
+7838,874,Myanmar,Education Index,2018,0.452,0.584
+7839,875,Namibia,Education Index,2018,0.5820000000000001,0.645
+7840,876,Nepal,Education Index,2018,0.501,0.579
+7841,877,Netherlands,Education Index,2018,0.906,0.934
+7842,878,New,Education Index,2018,0.923,
+7843,879,Nicaragua,Education Index,2018,0.5660000000000001,0.6509999999999999
+7844,880,Niger,Education Index,2018,0.247,0.377
+7845,881,Nigeria,Education Index,2018,0.486,0.534
+7846,882,North,Education Index,2018,0.6970000000000001,
+7847,883,Norway,Education Index,2018,0.919,0.9540000000000001
+7848,884,Oman,Education Index,2018,0.732,0.8340000000000001
+7849,885,Pakistan,Education Index,2018,0.407,0.56
+7850,886,Palau,Education Index,2018,0.845,0.8140000000000001
+7851,887,"Palestine,",Education Index,2018,0.66,
+7852,888,Panama,Education Index,2018,0.6970000000000001,0.795
+7853,889,Papua,Education Index,2018,0.4320000000000001,
+7854,890,Paraguay,Education Index,2018,0.634,0.7240000000000001
+7855,891,Peru,Education Index,2018,0.6920000000000001,0.759
+7856,892,Philippines,Education Index,2018,0.667,0.7120000000000001
+7857,893,Poland,Education Index,2018,0.866,0.872
+7858,894,Portugal,Education Index,2018,0.759,0.85
+7859,895,Qatar,Education Index,2018,0.6609999999999999,0.848
+7860,896,Romania,Education Index,2018,0.762,0.816
+7861,897,Russian,Education Index,2018,0.8320000000000001,
+7862,898,Rwanda,Education Index,2018,0.457,0.536
+7863,899,Saint,Education Index,2018,0.6609999999999999,
+7864,900,Saint,Education Index,2018,0.6679999999999999,
+7865,901,Saint,Education Index,2018,0.664,
+7866,902,Samoa,Education Index,2018,0.701,0.7070000000000001
+7867,903,Sao,Education Index,2018,0.5670000000000001,
+7868,904,Saudi,Education Index,2018,0.794,
+7869,905,Senegal,Education Index,2018,0.35200000000000004,0.514
+7870,906,Serbia,Education Index,2018,0.7829999999999999,0.799
+7871,907,Seychelles,Education Index,2018,0.752,0.8009999999999999
+7872,908,Sierra,Education Index,2018,0.403,
+7873,909,Singapore,Education Index,2018,0.8370000000000001,0.935
+7874,910,Slovakia,Education Index,2018,0.8240000000000001,0.857
+7875,911,Slovenia,Education Index,2018,0.893,0.902
+7876,912,Solomon,Education Index,2018,0.469,
+7877,913,South,Education Index,2018,0.721,
+7878,914,South,Education Index,2018,0.301,
+7879,915,Spain,Education Index,2018,0.8240000000000001,0.893
+7880,916,Sri,Education Index,2018,0.7559999999999999,
+7881,917,Sudan,Education Index,2018,0.339,0.508
+7882,918,Suriname,Education Index,2018,0.6609999999999999,0.7240000000000001
+7883,919,Sweden,Education Index,2018,0.914,0.937
+7884,920,Switzerland,Education Index,2018,0.8959999999999999,0.946
+7885,921,Syrian,Education Index,2018,0.416,
+7886,922,Tajikistan,Education Index,2018,0.6729999999999999,0.6559999999999999
+7887,923,Tanzania,Education Index,2018,0.423,
+7888,924,Thailand,Education Index,2018,0.665,0.765
+7889,925,Timor-Leste,Education Index,2018,0.496,0.626
+7890,926,Togo,Education Index,2018,0.514,0.513
+7891,927,Tonga,Education Index,2018,0.7709999999999999,0.7170000000000001
+7892,928,Trinidad,Education Index,2018,0.728,
+7893,929,Tunisia,Education Index,2018,0.659,0.7390000000000001
+7894,930,Turkey,Education Index,2018,0.7120000000000001,0.807
+7895,931,Turkmenistan,Education Index,2018,0.628,0.71
+7896,932,Uganda,Education Index,2018,0.515,0.528
+7897,933,Ukraine,Education Index,2018,0.797,0.75
+7898,934,United,Education Index,2018,0.7440000000000001,
+7899,935,United,Education Index,2018,0.916,
+7900,936,United,Education Index,2018,0.899,
+7901,937,Uruguay,Education Index,2018,0.745,0.8079999999999999
+7902,938,Uzbekistan,Education Index,2018,0.718,0.71
+7903,939,Vanuatu,Education Index,2018,0.545,0.597
+7904,940,Venezuela,Education Index,2018,0.7,
+7905,941,Viet,Education Index,2018,0.626,
+7906,942,Yemen,Education Index,2018,0.34700000000000003,0.46299999999999997
+7907,943,Zambia,Education Index,2018,0.5720000000000001,0.591
+7908,944,Zimbabwe,Education Index,2018,0.568,0.563
+20716,0,Afghanistan,Gender Inequality Index,2014,0.623,0.488
+20717,1,Albania,Gender Inequality Index,2014,0.261,0.787
+20718,2,Algeria,Gender Inequality Index,2014,0.439,0.7490000000000001
+20719,3,Angola,Gender Inequality Index,2014,0.5770000000000001,0.557
+20720,4,Argentina,Gender Inequality Index,2014,0.365,0.825
+20721,5,Armenia,Gender Inequality Index,2014,0.305,0.746
+20722,6,Australia,Gender Inequality Index,2014,0.11599999999999999,0.929
+20723,7,Austria,Gender Inequality Index,2014,0.09,0.904
+20724,8,Azerbaijan,Gender Inequality Index,2014,0.315,0.746
+20725,9,Bahamas,Gender Inequality Index,2014,0.379,0.7959999999999999
+20726,10,Bahrain,Gender Inequality Index,2014,0.218,0.81
+20727,11,Bangladesh,Gender Inequality Index,2014,0.555,0.5720000000000001
+20728,12,Barbados,Gender Inequality Index,2014,0.293,0.812
+20729,13,Belarus,Gender Inequality Index,2014,0.153,0.8109999999999999
+20730,14,Belgium,Gender Inequality Index,2014,0.063,0.91
+20731,15,Belize,Gender Inequality Index,2014,0.387,0.71
+20732,16,Benin,Gender Inequality Index,2014,0.617,0.505
+20733,17,Bhutan,Gender Inequality Index,2014,0.511,0.601
+20734,18,Bolivia,Gender Inequality Index,2014,0.455,
+20735,20,Botswana,Gender Inequality Index,2014,0.47200000000000003,0.7090000000000001
+20736,21,Brazil,Gender Inequality Index,2014,0.42100000000000004,0.755
+20737,23,Bulgaria,Gender Inequality Index,2014,0.23600000000000002,0.797
+20738,25,Burundi,Gender Inequality Index,2014,0.531,0.429
+20739,27,Cambodia,Gender Inequality Index,2014,0.478,0.561
+20740,28,Cameroon,Gender Inequality Index,2014,0.579,0.54
+20741,29,Canada,Gender Inequality Index,2014,0.11,0.914
+20742,32,Chile,Gender Inequality Index,2014,0.335,0.8340000000000001
+20743,33,China,Gender Inequality Index,2014,0.16699999999999998,0.735
+20744,34,Colombia,Gender Inequality Index,2014,0.41700000000000004,0.75
+20745,35,Congo,Gender Inequality Index,2014,0.593,0.595
+20746,36,Congo,Gender Inequality Index,2014,0.655,0.595
+20747,37,Costa,Gender Inequality Index,2014,0.312,
+20748,38,Croatia,Gender Inequality Index,2014,0.127,0.8270000000000001
+20749,39,Cuba,Gender Inequality Index,2014,0.319,0.764
+20750,40,Cyprus,Gender Inequality Index,2014,0.11800000000000001,0.856
+20751,41,Czechia,Gender Inequality Index,2014,0.139,0.879
+20752,42,Côte,Gender Inequality Index,2014,0.664,
+20753,43,Denmark,Gender Inequality Index,2014,0.044000000000000004,0.9279999999999999
+20754,44,Dominican,Gender Inequality Index,2014,0.483,
+20755,45,Ecuador,Gender Inequality Index,2014,0.4,0.75
+20756,47,El,Gender Inequality Index,2014,0.40700000000000003,
+20757,48,Estonia,Gender Inequality Index,2014,0.16399999999999998,0.865
+20758,49,Eswatini,Gender Inequality Index,2014,0.578,
+20759,50,Ethiopia,Gender Inequality Index,2014,0.547,0.446
+20760,51,Fiji,Gender Inequality Index,2014,0.366,0.7120000000000001
+20761,52,Finland,Gender Inequality Index,2014,0.065,0.9179999999999999
+20762,53,France,Gender Inequality Index,2014,0.087,0.887
+20763,54,Gabon,Gender Inequality Index,2014,0.547,0.688
+20764,55,Gambia,Gender Inequality Index,2014,0.64,0.449
+20765,56,Georgia,Gender Inequality Index,2014,0.37799999999999995,0.764
+20766,57,Germany,Gender Inequality Index,2014,0.081,0.93
+20767,58,Ghana,Gender Inequality Index,2014,0.556,0.5770000000000001
+20768,59,Greece,Gender Inequality Index,2014,0.127,0.866
+20769,60,Guatemala,Gender Inequality Index,2014,0.502,0.643
+20770,61,Guyana,Gender Inequality Index,2014,0.506,0.66
+20771,62,Haiti,Gender Inequality Index,2014,0.617,0.488
+20772,63,Honduras,Gender Inequality Index,2014,0.48,0.606
+20773,64,Hungary,Gender Inequality Index,2014,0.256,0.833
+20774,65,Iceland,Gender Inequality Index,2014,0.083,0.924
+20775,66,India,Gender Inequality Index,2014,0.563,0.618
+20776,67,Indonesia,Gender Inequality Index,2014,0.47200000000000003,0.691
+20777,68,Iran,Gender Inequality Index,2014,0.539,
+20778,69,Iraq,Gender Inequality Index,2014,0.552,0.662
+20779,70,Ireland,Gender Inequality Index,2014,0.135,0.92
+20780,71,Israel,Gender Inequality Index,2014,0.127,0.9
+20781,72,Italy,Gender Inequality Index,2014,0.087,0.8740000000000001
+20782,73,Jamaica,Gender Inequality Index,2014,0.42700000000000005,0.72
+20783,74,Japan,Gender Inequality Index,2014,0.127,0.904
+20784,75,Jordan,Gender Inequality Index,2014,0.493,0.72
+20785,76,Kazakhstan,Gender Inequality Index,2014,0.212,0.7979999999999999
+20786,77,Kenya,Gender Inequality Index,2014,0.564,0.556
+20787,78,Korea,Gender Inequality Index,2014,0.07200000000000001,
+20788,79,Kuwait,Gender Inequality Index,2014,0.31,0.8
+20789,80,Kyrgyzstan,Gender Inequality Index,2014,0.384,0.6629999999999999
+20790,81,Lao,Gender Inequality Index,2014,0.48,
+20791,82,Latvia,Gender Inequality Index,2014,0.20199999999999999,0.836
+20792,83,Lebanon,Gender Inequality Index,2014,0.405,0.732
+20793,84,Lesotho,Gender Inequality Index,2014,0.547,0.493
+20794,85,Liberia,Gender Inequality Index,2014,0.657,0.46399999999999997
+20795,86,Libya,Gender Inequality Index,2014,0.175,0.693
+20796,87,Lithuania,Gender Inequality Index,2014,0.13699999999999998,0.852
+20797,88,Luxembourg,Gender Inequality Index,2014,0.084,0.895
+20798,89,Malawi,Gender Inequality Index,2014,0.625,0.47200000000000003
+20799,90,Malaysia,Gender Inequality Index,2014,0.28300000000000003,0.792
+20800,91,Maldives,Gender Inequality Index,2014,0.387,0.7020000000000001
+20801,92,Mali,Gender Inequality Index,2014,0.677,0.414
+20802,93,Malta,Gender Inequality Index,2014,0.196,0.868
+20803,94,Mauritania,Gender Inequality Index,2014,0.629,0.518
+20804,95,Mauritius,Gender Inequality Index,2014,0.358,0.7859999999999999
+20805,96,Mexico,Gender Inequality Index,2014,0.361,0.754
+20806,97,Moldova,Gender Inequality Index,2014,0.258,
+20807,98,Mongolia,Gender Inequality Index,2014,0.317,0.733
+20808,99,Montenegro,Gender Inequality Index,2014,0.165,0.8029999999999999
+20809,100,Morocco,Gender Inequality Index,2014,0.525,0.653
+20810,102,Myanmar,Gender Inequality Index,2014,0.507,0.5579999999999999
+20811,104,Nepal,Gender Inequality Index,2014,0.506,0.562
+20812,105,Netherlands,Gender Inequality Index,2014,0.048,0.925
+20813,106,New,Gender Inequality Index,2014,0.16399999999999998,
+20814,107,Nicaragua,Gender Inequality Index,2014,0.47200000000000003,0.64
+20815,108,Niger,Gender Inequality Index,2014,0.669,0.353
+20816,110,Norway,Gender Inequality Index,2014,0.057999999999999996,0.945
+20817,111,Oman,Gender Inequality Index,2014,0.314,0.815
+20818,112,Pakistan,Gender Inequality Index,2014,0.557,0.546
+20819,113,Panama,Gender Inequality Index,2014,0.469,0.779
+20820,114,Papua,Gender Inequality Index,2014,0.6,
+20821,115,Paraguay,Gender Inequality Index,2014,0.484,0.7120000000000001
+20822,116,Peru,Gender Inequality Index,2014,0.405,0.752
+20823,117,Philippines,Gender Inequality Index,2014,0.43,0.6970000000000001
+20824,118,Poland,Gender Inequality Index,2014,0.149,0.853
+20825,119,Portugal,Gender Inequality Index,2014,0.11,0.84
+20826,120,Qatar,Gender Inequality Index,2014,0.5429999999999999,0.8540000000000001
+20827,121,Romania,Gender Inequality Index,2014,0.34700000000000003,0.8029999999999999
+20828,122,Russian,Gender Inequality Index,2014,0.294,
+20829,123,Rwanda,Gender Inequality Index,2014,0.42,0.513
+20830,124,Saint,Gender Inequality Index,2014,0.355,
+20831,125,Samoa,Gender Inequality Index,2014,0.413,0.698
+20832,126,Sao,Gender Inequality Index,2014,0.542,
+20833,127,Saudi,Gender Inequality Index,2014,0.265,
+20834,128,Senegal,Gender Inequality Index,2014,0.535,0.501
+20835,129,Serbia,Gender Inequality Index,2014,0.18600000000000003,0.78
+20836,130,Sierra,Gender Inequality Index,2014,0.655,
+20837,131,Singapore,Gender Inequality Index,2014,0.07,0.9279999999999999
+20838,132,Slovakia,Gender Inequality Index,2014,0.18600000000000003,0.845
+20839,133,Slovenia,Gender Inequality Index,2014,0.065,0.8859999999999999
+20840,134,South,Gender Inequality Index,2014,0.428,
+20841,135,Spain,Gender Inequality Index,2014,0.09,0.88
+20842,136,Sri,Gender Inequality Index,2014,0.39,
+20843,137,Sudan,Gender Inequality Index,2014,0.599,0.496
+20844,138,Suriname,Gender Inequality Index,2014,0.511,0.726
+20845,139,Sweden,Gender Inequality Index,2014,0.046,0.929
+20846,140,Switzerland,Gender Inequality Index,2014,0.049,0.9390000000000001
+20847,141,Syrian,Gender Inequality Index,2014,0.56,
+20848,142,Tajikistan,Gender Inequality Index,2014,0.382,0.642
+20849,143,Tanzania,Gender Inequality Index,2014,0.5489999999999999,
+20850,144,Thailand,Gender Inequality Index,2014,0.38,0.7390000000000001
+20851,145,Togo,Gender Inequality Index,2014,0.573,0.495
+20852,146,Tonga,Gender Inequality Index,2014,0.674,0.6990000000000001
+20853,147,Trinidad,Gender Inequality Index,2014,0.348,
+20854,148,Tunisia,Gender Inequality Index,2014,0.295,0.728
+20855,149,Turkey,Gender Inequality Index,2014,0.34700000000000003,0.792
+20856,150,Uganda,Gender Inequality Index,2014,0.541,0.509
+20857,151,Ukraine,Gender Inequality Index,2014,0.302,0.747
+20858,152,United,Gender Inequality Index,2014,0.205,
+20859,153,United,Gender Inequality Index,2014,0.161,
+20860,154,United,Gender Inequality Index,2014,0.225,
+20861,155,Uruguay,Gender Inequality Index,2014,0.32,0.8
+20862,156,Uzbekistan,Gender Inequality Index,2014,0.29100000000000004,0.693
+20863,157,Venezuela,Gender Inequality Index,2014,0.47100000000000003,
+20864,158,Viet,Gender Inequality Index,2014,0.33,
+20865,159,Yemen,Gender Inequality Index,2014,0.831,0.504
+20866,160,Zambia,Gender Inequality Index,2014,0.584,0.565
+20867,161,Zimbabwe,Gender Inequality Index,2014,0.534,0.537
+20868,189,Afghanistan,Gender Inequality Index,2015,0.614,0.49
+20869,190,Albania,Gender Inequality Index,2015,0.256,0.7879999999999999
+20870,191,Algeria,Gender Inequality Index,2015,0.442,0.7509999999999999
+20871,192,Angola,Gender Inequality Index,2015,0.575,0.565
+20872,194,Armenia,Gender Inequality Index,2015,0.301,0.748
+20873,195,Australia,Gender Inequality Index,2015,0.11,0.9329999999999999
+20874,196,Austria,Gender Inequality Index,2015,0.08900000000000001,0.9059999999999999
+20875,197,Azerbaijan,Gender Inequality Index,2015,0.31,0.7490000000000001
+20876,198,Bahamas,Gender Inequality Index,2015,0.374,0.799
+20877,199,Bahrain,Gender Inequality Index,2015,0.226,0.8340000000000001
+20878,200,Bangladesh,Gender Inequality Index,2015,0.5489999999999999,0.588
+20879,201,Barbados,Gender Inequality Index,2015,0.295,0.812
+20880,202,Belarus,Gender Inequality Index,2015,0.153,0.8109999999999999
+20881,203,Belgium,Gender Inequality Index,2015,0.057,0.9129999999999999
+20882,204,Belize,Gender Inequality Index,2015,0.386,0.715
+20883,205,Benin,Gender Inequality Index,2015,0.622,0.51
+20884,206,Bhutan,Gender Inequality Index,2015,0.495,0.606
+20885,207,Bolivia,Gender Inequality Index,2015,0.456,
+20886,208,Bosnia,Gender Inequality Index,2015,0.177,
+20887,209,Botswana,Gender Inequality Index,2015,0.469,0.7140000000000001
+20888,210,Brazil,Gender Inequality Index,2015,0.413,0.755
+20889,212,Bulgaria,Gender Inequality Index,2015,0.23399999999999999,0.807
+20890,213,Burkina,Gender Inequality Index,2015,0.623,
+20891,214,Burundi,Gender Inequality Index,2015,0.524,0.42700000000000005
+20892,215,Cabo,Gender Inequality Index,2015,0.37799999999999995,
+20893,216,Cambodia,Gender Inequality Index,2015,0.47600000000000003,0.5660000000000001
+20894,217,Cameroon,Gender Inequality Index,2015,0.5770000000000001,0.5479999999999999
+20895,218,Canada,Gender Inequality Index,2015,0.10800000000000001,0.917
+20896,220,Chad,Gender Inequality Index,2015,0.7070000000000001,0.40299999999999997
+20897,221,Chile,Gender Inequality Index,2015,0.33299999999999996,0.8390000000000001
+20898,222,China,Gender Inequality Index,2015,0.165,0.742
+20899,223,Colombia,Gender Inequality Index,2015,0.413,0.753
+20900,224,Congo,Gender Inequality Index,2015,0.5920000000000001,0.614
+20901,225,Congo,Gender Inequality Index,2015,0.659,0.614
+20902,226,Costa,Gender Inequality Index,2015,0.308,
+20903,227,Croatia,Gender Inequality Index,2015,0.15,0.83
+20904,228,Cuba,Gender Inequality Index,2015,0.32,0.768
+20905,229,Cyprus,Gender Inequality Index,2015,0.114,0.8640000000000001
+20906,230,Czechia,Gender Inequality Index,2015,0.134,0.882
+20907,231,Côte,Gender Inequality Index,2015,0.6629999999999999,
+20908,232,Denmark,Gender Inequality Index,2015,0.044000000000000004,0.9259999999999999
+20909,233,Dominican,Gender Inequality Index,2015,0.473,
+20910,234,Ecuador,Gender Inequality Index,2015,0.39299999999999996,0.758
+20911,236,El,Gender Inequality Index,2015,0.397,
+20912,237,Estonia,Gender Inequality Index,2015,0.14400000000000002,0.871
+20913,238,Eswatini,Gender Inequality Index,2015,0.574,
+20914,239,Ethiopia,Gender Inequality Index,2015,0.519,0.45299999999999996
+20915,240,Fiji,Gender Inequality Index,2015,0.36,0.718
+20916,241,Finland,Gender Inequality Index,2015,0.063,0.919
+20917,242,France,Gender Inequality Index,2015,0.086,0.888
+20918,243,Gabon,Gender Inequality Index,2015,0.5429999999999999,0.6920000000000001
+20919,244,Gambia,Gender Inequality Index,2015,0.637,0.45399999999999996
+20920,245,Georgia,Gender Inequality Index,2015,0.37799999999999995,0.7709999999999999
+20921,246,Germany,Gender Inequality Index,2015,0.076,0.9329999999999999
+20922,247,Ghana,Gender Inequality Index,2015,0.555,0.585
+20923,248,Greece,Gender Inequality Index,2015,0.126,0.868
+20924,249,Guatemala,Gender Inequality Index,2015,0.499,0.647
+20925,250,Guyana,Gender Inequality Index,2015,0.503,0.6629999999999999
+20926,251,Haiti,Gender Inequality Index,2015,0.614,0.49200000000000005
+20927,252,Honduras,Gender Inequality Index,2015,0.475,0.613
+20928,253,Hungary,Gender Inequality Index,2015,0.261,0.835
+20929,254,Iceland,Gender Inequality Index,2015,0.075,0.927
+20930,255,India,Gender Inequality Index,2015,0.551,0.627
+20931,256,Indonesia,Gender Inequality Index,2015,0.467,0.696
+20932,257,Iran,Gender Inequality Index,2015,0.528,
+20933,258,Iraq,Gender Inequality Index,2015,0.5489999999999999,0.665
+20934,259,Ireland,Gender Inequality Index,2015,0.129,0.9259999999999999
+20935,260,Israel,Gender Inequality Index,2015,0.114,0.9009999999999999
+20936,261,Italy,Gender Inequality Index,2015,0.087,0.875
+20937,262,Jamaica,Gender Inequality Index,2015,0.423,0.722
+20938,263,Japan,Gender Inequality Index,2015,0.121,0.9059999999999999
+20939,264,Jordan,Gender Inequality Index,2015,0.493,0.721
+20940,265,Kazakhstan,Gender Inequality Index,2015,0.212,0.8059999999999999
+20941,266,Kenya,Gender Inequality Index,2015,0.56,0.562
+20942,267,Korea,Gender Inequality Index,2015,0.068,
+20943,268,Kuwait,Gender Inequality Index,2015,0.308,0.807
+20944,269,Kyrgyzstan,Gender Inequality Index,2015,0.4,0.6659999999999999
+20945,270,Lao,Gender Inequality Index,2015,0.474,
+20946,271,Latvia,Gender Inequality Index,2015,0.19899999999999998,0.8420000000000001
+20947,272,Lebanon,Gender Inequality Index,2015,0.402,0.728
+20948,273,Lesotho,Gender Inequality Index,2015,0.547,0.499
+20949,274,Liberia,Gender Inequality Index,2015,0.66,0.46299999999999997
+20950,275,Libya,Gender Inequality Index,2015,0.174,0.691
+20951,276,Lithuania,Gender Inequality Index,2015,0.133,0.855
+20952,277,Luxembourg,Gender Inequality Index,2015,0.077,0.899
+20953,278,Malawi,Gender Inequality Index,2015,0.624,0.475
+20954,279,Malaysia,Gender Inequality Index,2015,0.28600000000000003,0.797
+20955,280,Maldives,Gender Inequality Index,2015,0.384,0.7090000000000001
+20956,281,Mali,Gender Inequality Index,2015,0.6779999999999999,0.41200000000000003
+20957,282,Malta,Gender Inequality Index,2015,0.19699999999999998,0.877
+20958,283,Mauritania,Gender Inequality Index,2015,0.625,0.521
+20959,284,Mauritius,Gender Inequality Index,2015,0.379,0.7859999999999999
+20960,285,Mexico,Gender Inequality Index,2015,0.35200000000000004,0.759
+20961,286,Moldova,Gender Inequality Index,2015,0.24,
+20962,287,Mongolia,Gender Inequality Index,2015,0.321,0.736
+20963,288,Montenegro,Gender Inequality Index,2015,0.159,0.807
+20964,289,Morocco,Gender Inequality Index,2015,0.504,0.66
+20965,290,Mozambique,Gender Inequality Index,2015,0.5720000000000001,0.428
+20966,291,Myanmar,Gender Inequality Index,2015,0.44299999999999995,0.565
+20967,292,Namibia,Gender Inequality Index,2015,0.47700000000000004,0.637
+20968,293,Nepal,Gender Inequality Index,2015,0.499,0.568
+20969,294,Netherlands,Gender Inequality Index,2015,0.048,0.927
+20970,295,New,Gender Inequality Index,2015,0.156,
+20971,296,Nicaragua,Gender Inequality Index,2015,0.469,0.644
+20972,297,Niger,Gender Inequality Index,2015,0.667,0.36
+20973,298,North,Gender Inequality Index,2015,0.162,
+20974,299,Norway,Gender Inequality Index,2015,0.054000000000000006,0.948
+20975,300,Oman,Gender Inequality Index,2015,0.317,0.8270000000000001
+20976,301,Pakistan,Gender Inequality Index,2015,0.551,0.55
+20977,302,Panama,Gender Inequality Index,2015,0.467,0.782
+20978,303,Papua,Gender Inequality Index,2015,0.597,
+20979,304,Paraguay,Gender Inequality Index,2015,0.48200000000000004,0.718
+20980,305,Peru,Gender Inequality Index,2015,0.402,0.75
+20981,306,Philippines,Gender Inequality Index,2015,0.43,0.7020000000000001
+20982,307,Poland,Gender Inequality Index,2015,0.142,0.858
+20983,308,Portugal,Gender Inequality Index,2015,0.099,0.843
+20984,309,Qatar,Gender Inequality Index,2015,0.539,0.851
+20985,310,Romania,Gender Inequality Index,2015,0.34600000000000003,0.8059999999999999
+20986,311,Russian,Gender Inequality Index,2015,0.28,
+20987,312,Rwanda,Gender Inequality Index,2015,0.415,0.515
+20988,313,Saint,Gender Inequality Index,2015,0.341,
+20989,314,Samoa,Gender Inequality Index,2015,0.409,0.6990000000000001
+20990,315,Sao,Gender Inequality Index,2015,0.54,
+20991,316,Saudi,Gender Inequality Index,2015,0.254,
+20992,317,Senegal,Gender Inequality Index,2015,0.531,0.504
+20993,318,Serbia,Gender Inequality Index,2015,0.184,0.785
+20994,319,Sierra,Gender Inequality Index,2015,0.653,
+20995,320,Singapore,Gender Inequality Index,2015,0.068,0.929
+20996,321,Slovakia,Gender Inequality Index,2015,0.18600000000000003,0.8490000000000001
+20997,322,Slovenia,Gender Inequality Index,2015,0.063,0.8859999999999999
+20998,323,South,Gender Inequality Index,2015,0.42700000000000005,
+20999,324,Spain,Gender Inequality Index,2015,0.084,0.885
+21000,325,Sri,Gender Inequality Index,2015,0.39799999999999996,
+21001,326,Sudan,Gender Inequality Index,2015,0.579,0.501
+21002,327,Suriname,Gender Inequality Index,2015,0.46799999999999997,0.73
+21003,328,Sweden,Gender Inequality Index,2015,0.045,0.932
+21004,329,Switzerland,Gender Inequality Index,2015,0.047,0.943
+21005,330,Syrian,Gender Inequality Index,2015,0.5589999999999999,
+21006,331,Tajikistan,Gender Inequality Index,2015,0.384,0.642
+21007,332,Tanzania,Gender Inequality Index,2015,0.544,
+21008,333,Thailand,Gender Inequality Index,2015,0.37799999999999995,0.746
+21009,334,Togo,Gender Inequality Index,2015,0.573,0.502
+21010,335,Tonga,Gender Inequality Index,2015,0.672,0.7140000000000001
+21011,336,Trinidad,Gender Inequality Index,2015,0.33399999999999996,
+21012,337,Tunisia,Gender Inequality Index,2015,0.297,0.731
+21013,338,Turkey,Gender Inequality Index,2015,0.33299999999999996,0.8
+21014,339,Uganda,Gender Inequality Index,2015,0.536,0.515
+21015,340,Ukraine,Gender Inequality Index,2015,0.298,0.742
+21016,341,United,Gender Inequality Index,2015,0.17800000000000002,
+21017,342,United,Gender Inequality Index,2015,0.146,
+21018,343,United,Gender Inequality Index,2015,0.21899999999999997,
+21019,344,Uruguay,Gender Inequality Index,2015,0.28800000000000003,0.802
+21020,345,Uzbekistan,Gender Inequality Index,2015,0.303,0.696
+21021,346,Venezuela,Gender Inequality Index,2015,0.47,
+21022,347,Viet,Gender Inequality Index,2015,0.33299999999999996,
+21023,348,Yemen,Gender Inequality Index,2015,0.841,0.493
+21024,349,Zambia,Gender Inequality Index,2015,0.5710000000000001,0.57
+21025,350,Zimbabwe,Gender Inequality Index,2015,0.54,0.544
+21026,378,Afghanistan,Gender Inequality Index,2016,0.605,0.491
+21027,379,Albania,Gender Inequality Index,2016,0.249,0.7879999999999999
+21028,380,Algeria,Gender Inequality Index,2016,0.439,0.755
+21029,381,Angola,Gender Inequality Index,2016,0.5720000000000001,0.57
+21030,382,Argentina,Gender Inequality Index,2016,0.359,0.828
+21031,383,Armenia,Gender Inequality Index,2016,0.3,0.7509999999999999
+21032,384,Australia,Gender Inequality Index,2016,0.107,0.935
+21033,385,Austria,Gender Inequality Index,2016,0.086,0.909
+21034,386,Azerbaijan,Gender Inequality Index,2016,0.315,0.7490000000000001
+21035,387,Bahamas,Gender Inequality Index,2016,0.37200000000000005,0.8
+21036,388,Bahrain,Gender Inequality Index,2016,0.225,0.8390000000000001
+21037,389,Bangladesh,Gender Inequality Index,2016,0.547,0.599
+21038,390,Barbados,Gender Inequality Index,2016,0.289,0.8140000000000001
+21039,391,Belarus,Gender Inequality Index,2016,0.136,0.812
+21040,392,Belgium,Gender Inequality Index,2016,0.053,0.915
+21041,393,Belize,Gender Inequality Index,2016,0.384,0.722
+21042,394,Benin,Gender Inequality Index,2016,0.618,0.512
+21043,395,Bhutan,Gender Inequality Index,2016,0.491,0.61
+21044,396,Bolivia,Gender Inequality Index,2016,0.44799999999999995,
+21045,397,Bosnia,Gender Inequality Index,2016,0.17300000000000001,
+21046,398,Botswana,Gender Inequality Index,2016,0.467,0.7190000000000001
+21047,399,Brazil,Gender Inequality Index,2016,0.41,0.757
+21048,400,Brunei,Gender Inequality Index,2016,0.276,
+21049,401,Bulgaria,Gender Inequality Index,2016,0.23199999999999998,0.812
+21050,402,Burkina,Gender Inequality Index,2016,0.621,
+21051,403,Burundi,Gender Inequality Index,2016,0.523,0.42700000000000005
+21052,404,Cabo,Gender Inequality Index,2016,0.376,
+21053,405,Cambodia,Gender Inequality Index,2016,0.475,0.5720000000000001
+21054,406,Cameroon,Gender Inequality Index,2016,0.574,0.556
+21055,407,Canada,Gender Inequality Index,2016,0.099,0.92
+21056,408,Central,Gender Inequality Index,2016,0.693,
+21057,409,Chad,Gender Inequality Index,2016,0.705,0.39799999999999996
+21058,410,Chile,Gender Inequality Index,2016,0.326,0.843
+21059,411,China,Gender Inequality Index,2016,0.16399999999999998,0.7490000000000001
+21060,412,Colombia,Gender Inequality Index,2016,0.41,0.759
+21061,413,Congo,Gender Inequality Index,2016,0.59,0.613
+21062,414,Congo,Gender Inequality Index,2016,0.6559999999999999,0.613
+21063,415,Costa,Gender Inequality Index,2016,0.309,
+21064,416,Croatia,Gender Inequality Index,2016,0.158,0.8320000000000001
+21065,417,Cuba,Gender Inequality Index,2016,0.319,0.7709999999999999
+21066,418,Cyprus,Gender Inequality Index,2016,0.09,0.8690000000000001
+21067,419,Czechia,Gender Inequality Index,2016,0.135,0.885
+21068,420,Côte,Gender Inequality Index,2016,0.66,
+21069,421,Denmark,Gender Inequality Index,2016,0.042,0.9279999999999999
+21070,422,Dominican,Gender Inequality Index,2016,0.457,
+21071,423,Ecuador,Gender Inequality Index,2016,0.387,0.7559999999999999
+21072,424,Egypt,Gender Inequality Index,2016,0.452,0.695
+21073,425,El,Gender Inequality Index,2016,0.39399999999999996,
+21074,426,Estonia,Gender Inequality Index,2016,0.132,0.875
+21075,427,Eswatini,Gender Inequality Index,2016,0.5720000000000001,
+21076,428,Ethiopia,Gender Inequality Index,2016,0.515,0.46
+21077,429,Fiji,Gender Inequality Index,2016,0.365,0.718
+21078,430,Finland,Gender Inequality Index,2016,0.059000000000000004,0.922
+21079,431,France,Gender Inequality Index,2016,0.08,0.887
+21080,432,Gabon,Gender Inequality Index,2016,0.542,0.696
+21081,433,Gambia,Gender Inequality Index,2016,0.633,0.456
+21082,434,Georgia,Gender Inequality Index,2016,0.35600000000000004,0.7759999999999999
+21083,435,Germany,Gender Inequality Index,2016,0.076,0.9359999999999999
+21084,436,Ghana,Gender Inequality Index,2016,0.5529999999999999,0.5870000000000001
+21085,437,Greece,Gender Inequality Index,2016,0.122,0.866
+21086,438,Guatemala,Gender Inequality Index,2016,0.49200000000000005,0.648
+21087,439,Guyana,Gender Inequality Index,2016,0.5,0.6659999999999999
+21088,440,Haiti,Gender Inequality Index,2016,0.765,0.49700000000000005
+21089,441,Honduras,Gender Inequality Index,2016,0.473,0.618
+21090,442,Hungary,Gender Inequality Index,2016,0.265,0.838
+21091,443,Iceland,Gender Inequality Index,2016,0.064,0.932
+21092,444,India,Gender Inequality Index,2016,0.5379999999999999,0.637
+21093,445,Indonesia,Gender Inequality Index,2016,0.46399999999999997,0.7
+21094,446,Iran,Gender Inequality Index,2016,0.484,
+21095,447,Iraq,Gender Inequality Index,2016,0.546,0.672
+21096,448,Ireland,Gender Inequality Index,2016,0.109,0.9359999999999999
+21097,449,Israel,Gender Inequality Index,2016,0.11,0.902
+21098,450,Italy,Gender Inequality Index,2016,0.084,0.878
+21099,451,Jamaica,Gender Inequality Index,2016,0.41200000000000003,0.722
+21100,452,Japan,Gender Inequality Index,2016,0.10800000000000001,0.91
+21101,453,Jordan,Gender Inequality Index,2016,0.474,0.722
+21102,454,Kazakhstan,Gender Inequality Index,2016,0.209,0.8079999999999999
+21103,455,Kenya,Gender Inequality Index,2016,0.557,0.568
+21104,456,Korea,Gender Inequality Index,2016,0.063,
+21105,457,Kuwait,Gender Inequality Index,2016,0.28600000000000003,0.809
+21106,458,Kyrgyzstan,Gender Inequality Index,2016,0.396,0.669
+21107,459,Lao,Gender Inequality Index,2016,0.466,
+21108,460,Latvia,Gender Inequality Index,2016,0.19899999999999998,0.845
+21109,461,Lebanon,Gender Inequality Index,2016,0.39899999999999997,0.725
+21110,462,Lesotho,Gender Inequality Index,2016,0.541,0.507
+21111,463,Liberia,Gender Inequality Index,2016,0.6579999999999999,0.46299999999999997
+21112,464,Libya,Gender Inequality Index,2016,0.171,0.69
+21113,465,Lithuania,Gender Inequality Index,2016,0.134,0.86
+21114,466,Luxembourg,Gender Inequality Index,2016,0.07200000000000001,0.904
+21115,467,Malawi,Gender Inequality Index,2016,0.621,0.478
+21116,468,Malaysia,Gender Inequality Index,2016,0.287,0.8009999999999999
+21117,469,Maldives,Gender Inequality Index,2016,0.38,0.713
+21118,470,Mali,Gender Inequality Index,2016,0.6779999999999999,0.42
+21119,471,Malta,Gender Inequality Index,2016,0.195,0.8809999999999999
+21120,472,Mauritania,Gender Inequality Index,2016,0.622,0.519
+21121,473,Mauritius,Gender Inequality Index,2016,0.377,0.79
+21122,474,Mexico,Gender Inequality Index,2016,0.349,0.764
+21123,475,Moldova,Gender Inequality Index,2016,0.237,
+21124,476,Mongolia,Gender Inequality Index,2016,0.314,0.73
+21125,477,Montenegro,Gender Inequality Index,2016,0.135,0.809
+21126,478,Morocco,Gender Inequality Index,2016,0.494,0.669
+21127,479,Mozambique,Gender Inequality Index,2016,0.5720000000000001,0.435
+21128,480,Myanmar,Gender Inequality Index,2016,0.45799999999999996,0.5710000000000001
+21129,481,Namibia,Gender Inequality Index,2016,0.475,0.639
+21130,482,Nepal,Gender Inequality Index,2016,0.494,0.5720000000000001
+21131,483,Netherlands,Gender Inequality Index,2016,0.045,0.929
+21132,484,New,Gender Inequality Index,2016,0.152,
+21133,485,Nicaragua,Gender Inequality Index,2016,0.461,0.649
+21134,486,Niger,Gender Inequality Index,2016,0.659,0.365
+21135,487,North,Gender Inequality Index,2016,0.161,
+21136,488,Norway,Gender Inequality Index,2016,0.051,0.951
+21137,489,Oman,Gender Inequality Index,2016,0.311,0.8340000000000001
+21138,490,Pakistan,Gender Inequality Index,2016,0.55,0.556
+21139,491,Panama,Gender Inequality Index,2016,0.465,0.789
+21140,492,Papua,Gender Inequality Index,2016,0.594,
+21141,493,Paraguay,Gender Inequality Index,2016,0.483,0.718
+21142,494,Peru,Gender Inequality Index,2016,0.385,0.755
+21143,495,Philippines,Gender Inequality Index,2016,0.424,0.7040000000000001
+21144,496,Poland,Gender Inequality Index,2016,0.136,0.8640000000000001
+21145,497,Portugal,Gender Inequality Index,2016,0.094,0.846
+21146,498,Qatar,Gender Inequality Index,2016,0.537,0.847
+21147,499,Romania,Gender Inequality Index,2016,0.34600000000000003,0.8079999999999999
+21148,500,Russian,Gender Inequality Index,2016,0.278,
+21149,501,Rwanda,Gender Inequality Index,2016,0.413,0.525
+21150,502,Saint,Gender Inequality Index,2016,0.33899999999999997,
+21151,503,Samoa,Gender Inequality Index,2016,0.374,0.7040000000000001
+21152,504,Sao,Gender Inequality Index,2016,0.5379999999999999,
+21153,505,Saudi,Gender Inequality Index,2016,0.24100000000000002,
+21154,506,Senegal,Gender Inequality Index,2016,0.528,0.506
+21155,507,Serbia,Gender Inequality Index,2016,0.17600000000000002,0.7909999999999999
+21156,508,Sierra,Gender Inequality Index,2016,0.649,
+21157,509,Singapore,Gender Inequality Index,2016,0.066,0.9329999999999999
+21158,510,Slovakia,Gender Inequality Index,2016,0.184,0.851
+21159,511,Slovenia,Gender Inequality Index,2016,0.057999999999999996,0.892
+21160,512,South,Gender Inequality Index,2016,0.426,
+21161,513,Spain,Gender Inequality Index,2016,0.08,0.888
+21162,514,Sri,Gender Inequality Index,2016,0.384,
+21163,515,Sudan,Gender Inequality Index,2016,0.573,0.505
+21164,516,Suriname,Gender Inequality Index,2016,0.469,0.726
+21165,517,Sweden,Gender Inequality Index,2016,0.044000000000000004,0.934
+21166,518,Switzerland,Gender Inequality Index,2016,0.043,0.943
+21167,519,Syrian,Gender Inequality Index,2016,0.551,
+21168,520,Tajikistan,Gender Inequality Index,2016,0.37,0.647
+21169,521,Tanzania,Gender Inequality Index,2016,0.541,
+21170,522,Thailand,Gender Inequality Index,2016,0.374,0.753
+21171,523,Togo,Gender Inequality Index,2016,0.57,0.506
+21172,524,Tonga,Gender Inequality Index,2016,0.67,0.715
+21173,525,Trinidad,Gender Inequality Index,2016,0.32799999999999996,
+21174,526,Tunisia,Gender Inequality Index,2016,0.298,0.736
+21175,527,Turkey,Gender Inequality Index,2016,0.326,0.8
+21176,528,Uganda,Gender Inequality Index,2016,0.536,0.52
+21177,529,Ukraine,Gender Inequality Index,2016,0.294,0.746
+21178,530,United,Gender Inequality Index,2016,0.16,
+21179,531,United,Gender Inequality Index,2016,0.138,
+21180,532,United,Gender Inequality Index,2016,0.21100000000000002,
+21181,533,Uruguay,Gender Inequality Index,2016,0.28600000000000003,0.8059999999999999
+21182,534,Uzbekistan,Gender Inequality Index,2016,0.303,0.701
+21183,535,Venezuela,Gender Inequality Index,2016,0.48100000000000004,
+21184,536,Viet,Gender Inequality Index,2016,0.32299999999999995,
+21185,537,Yemen,Gender Inequality Index,2016,0.8370000000000001,0.47700000000000004
+21186,538,Zambia,Gender Inequality Index,2016,0.5479999999999999,0.58
+21187,539,Zimbabwe,Gender Inequality Index,2016,0.535,0.5489999999999999
+21188,567,Afghanistan,Gender Inequality Index,2017,0.59,0.493
+21189,568,Albania,Gender Inequality Index,2017,0.23600000000000002,0.789
+21190,569,Algeria,Gender Inequality Index,2017,0.447,0.758
+21191,570,Angola,Gender Inequality Index,2017,0.58,0.5760000000000001
+21192,571,Argentina,Gender Inequality Index,2017,0.355,0.8320000000000001
+21193,572,Armenia,Gender Inequality Index,2017,0.263,0.758
+21194,573,Australia,Gender Inequality Index,2017,0.10400000000000001,0.937
+21195,574,Austria,Gender Inequality Index,2017,0.078,0.912
+21196,575,Azerbaijan,Gender Inequality Index,2017,0.318,0.752
+21197,576,Bahamas,Gender Inequality Index,2017,0.353,0.804
+21198,577,Bahrain,Gender Inequality Index,2017,0.223,0.8390000000000001
+21199,578,Bangladesh,Gender Inequality Index,2017,0.5379999999999999,0.609
+21200,579,Barbados,Gender Inequality Index,2017,0.28300000000000003,0.813
+21201,580,Belarus,Gender Inequality Index,2017,0.129,0.815
+21202,581,Belgium,Gender Inequality Index,2017,0.05,0.917
+21203,582,Belize,Gender Inequality Index,2017,0.39299999999999996,0.7190000000000001
+21204,583,Benin,Gender Inequality Index,2017,0.614,0.515
+21205,584,Bhutan,Gender Inequality Index,2017,0.484,0.615
+21206,585,Bolivia,Gender Inequality Index,2017,0.44799999999999995,
+21207,586,Bosnia,Gender Inequality Index,2017,0.16699999999999998,
+21208,587,Botswana,Gender Inequality Index,2017,0.466,0.7240000000000001
+21209,588,Brazil,Gender Inequality Index,2017,0.40399999999999997,0.76
+21210,589,Brunei,Gender Inequality Index,2017,0.243,
+21211,590,Bulgaria,Gender Inequality Index,2017,0.22,0.813
+21212,591,Burkina,Gender Inequality Index,2017,0.612,
+21213,592,Burundi,Gender Inequality Index,2017,0.521,0.42100000000000004
+21214,593,Cabo,Gender Inequality Index,2017,0.374,
+21215,594,Cambodia,Gender Inequality Index,2017,0.47600000000000003,0.578
+21216,595,Cameroon,Gender Inequality Index,2017,0.5720000000000001,0.56
+21217,596,Canada,Gender Inequality Index,2017,0.092,0.9209999999999999
+21218,597,Central,Gender Inequality Index,2017,0.684,
+21219,598,Chad,Gender Inequality Index,2017,0.71,0.401
+21220,600,China,Gender Inequality Index,2017,0.16399999999999998,0.753
+21221,601,Colombia,Gender Inequality Index,2017,0.41100000000000003,0.76
+21222,602,Congo,Gender Inequality Index,2017,0.58,0.609
+21223,603,Congo,Gender Inequality Index,2017,0.655,0.609
+21224,604,Costa,Gender Inequality Index,2017,0.303,
+21225,605,Croatia,Gender Inequality Index,2017,0.128,0.835
+21226,606,Cuba,Gender Inequality Index,2017,0.318,0.777
+21227,607,Cyprus,Gender Inequality Index,2017,0.087,0.871
+21228,608,Czechia,Gender Inequality Index,2017,0.133,0.888
+21229,609,Côte,Gender Inequality Index,2017,0.6579999999999999,
+21230,610,Denmark,Gender Inequality Index,2017,0.040999999999999995,0.929
+21231,611,Dominican,Gender Inequality Index,2017,0.45399999999999996,
+21232,612,Ecuador,Gender Inequality Index,2017,0.39,0.757
+21233,613,Egypt,Gender Inequality Index,2017,0.452,0.696
+21234,614,El,Gender Inequality Index,2017,0.39799999999999996,
+21235,615,Estonia,Gender Inequality Index,2017,0.11,0.879
+21236,616,Eswatini,Gender Inequality Index,2017,0.5710000000000001,
+21237,617,Ethiopia,Gender Inequality Index,2017,0.512,0.467
+21238,618,Fiji,Gender Inequality Index,2017,0.36700000000000005,0.721
+21239,619,Finland,Gender Inequality Index,2017,0.055,0.924
+21240,620,France,Gender Inequality Index,2017,0.057999999999999996,0.89
+21241,621,Gabon,Gender Inequality Index,2017,0.537,0.7
+21242,622,Gambia,Gender Inequality Index,2017,0.625,0.45899999999999996
+21243,623,Georgia,Gender Inequality Index,2017,0.354,0.7829999999999999
+21244,624,Germany,Gender Inequality Index,2017,0.084,0.938
+21245,625,Ghana,Gender Inequality Index,2017,0.5429999999999999,0.591
+21246,626,Greece,Gender Inequality Index,2017,0.124,0.871
+21247,627,Guatemala,Gender Inequality Index,2017,0.495,0.649
+21248,628,Guyana,Gender Inequality Index,2017,0.495,0.6679999999999999
+21249,629,Haiti,Gender Inequality Index,2017,0.622,0.501
+21250,631,Hungary,Gender Inequality Index,2017,0.27,0.841
+21251,632,Iceland,Gender Inequality Index,2017,0.065,0.935
+21252,633,India,Gender Inequality Index,2017,0.522,0.643
+21253,634,Indonesia,Gender Inequality Index,2017,0.45299999999999996,0.7040000000000001
+21254,635,Iran,Gender Inequality Index,2017,0.488,
+21255,636,Iraq,Gender Inequality Index,2017,0.544,0.684
+21256,637,Ireland,Gender Inequality Index,2017,0.10099999999999999,0.9390000000000001
+21257,638,Israel,Gender Inequality Index,2017,0.10400000000000001,0.904
+21258,639,Italy,Gender Inequality Index,2017,0.08,0.8809999999999999
+21259,640,Jamaica,Gender Inequality Index,2017,0.408,0.725
+21260,641,Japan,Gender Inequality Index,2017,0.102,0.9129999999999999
+21261,642,Jordan,Gender Inequality Index,2017,0.47100000000000003,0.722
+21262,643,Kazakhstan,Gender Inequality Index,2017,0.204,0.813
+21263,644,Kenya,Gender Inequality Index,2017,0.5479999999999999,0.574
+21264,645,Korea,Gender Inequality Index,2017,0.06,
+21265,646,Kuwait,Gender Inequality Index,2017,0.251,0.809
+21266,647,Kyrgyzstan,Gender Inequality Index,2017,0.389,0.6709999999999999
+21267,648,Lao,Gender Inequality Index,2017,0.465,
+21268,649,Latvia,Gender Inequality Index,2017,0.20800000000000002,0.8490000000000001
+21269,650,Lebanon,Gender Inequality Index,2017,0.395,0.732
+21270,651,Lesotho,Gender Inequality Index,2017,0.545,0.514
+21271,652,Liberia,Gender Inequality Index,2017,0.659,0.466
+21272,653,Libya,Gender Inequality Index,2017,0.17300000000000001,0.7040000000000001
+21273,654,Lithuania,Gender Inequality Index,2017,0.129,0.866
+21274,655,Luxembourg,Gender Inequality Index,2017,0.065,0.9079999999999999
+21275,656,Malawi,Gender Inequality Index,2017,0.618,0.48200000000000004
+21276,657,Malaysia,Gender Inequality Index,2017,0.28600000000000003,0.802
+21277,658,Maldives,Gender Inequality Index,2017,0.375,0.716
+21278,659,Mali,Gender Inequality Index,2017,0.677,0.426
+21279,660,Malta,Gender Inequality Index,2017,0.19699999999999998,0.883
+21280,661,Mauritania,Gender Inequality Index,2017,0.612,0.524
+21281,662,Mauritius,Gender Inequality Index,2017,0.373,0.7929999999999999
+21282,663,Mexico,Gender Inequality Index,2017,0.34600000000000003,0.765
+21283,664,Moldova,Gender Inequality Index,2017,0.23199999999999998,
+21284,665,Mongolia,Gender Inequality Index,2017,0.318,0.7290000000000001
+21285,666,Montenegro,Gender Inequality Index,2017,0.128,0.813
+21286,667,Morocco,Gender Inequality Index,2017,0.494,0.675
+21287,668,Mozambique,Gender Inequality Index,2017,0.57,0.442
+21288,669,Myanmar,Gender Inequality Index,2017,0.46,0.5770000000000001
+21289,670,Namibia,Gender Inequality Index,2017,0.47,0.643
+21290,671,Nepal,Gender Inequality Index,2017,0.488,0.574
+21291,672,Netherlands,Gender Inequality Index,2017,0.044000000000000004,0.932
+21292,673,New,Gender Inequality Index,2017,0.13699999999999998,
+21293,674,Nicaragua,Gender Inequality Index,2017,0.45799999999999996,0.653
+21294,675,Niger,Gender Inequality Index,2017,0.649,0.373
+21295,676,North,Gender Inequality Index,2017,0.15,
+21296,677,Norway,Gender Inequality Index,2017,0.047,0.953
+21297,678,Oman,Gender Inequality Index,2017,0.307,0.833
+21298,679,Pakistan,Gender Inequality Index,2017,0.5489999999999999,0.5579999999999999
+21299,680,Panama,Gender Inequality Index,2017,0.462,0.7929999999999999
+21300,681,Papua,Gender Inequality Index,2017,0.742,
+21301,682,Paraguay,Gender Inequality Index,2017,0.485,0.722
+21302,683,Peru,Gender Inequality Index,2017,0.38299999999999995,0.7559999999999999
+21303,684,Philippines,Gender Inequality Index,2017,0.42700000000000005,0.7090000000000001
+21304,685,Poland,Gender Inequality Index,2017,0.128,0.868
+21305,686,Portugal,Gender Inequality Index,2017,0.08800000000000001,0.848
+21306,687,Qatar,Gender Inequality Index,2017,0.209,0.848
+21307,688,Romania,Gender Inequality Index,2017,0.316,0.813
+21308,689,Russian,Gender Inequality Index,2017,0.262,
+21309,690,Rwanda,Gender Inequality Index,2017,0.41200000000000003,0.529
+21310,691,Saint,Gender Inequality Index,2017,0.336,
+21311,692,Samoa,Gender Inequality Index,2017,0.369,0.706
+21312,693,Sao,Gender Inequality Index,2017,0.536,
+21313,694,Saudi,Gender Inequality Index,2017,0.23199999999999998,
+21314,695,Senegal,Gender Inequality Index,2017,0.524,0.51
+21315,696,Serbia,Gender Inequality Index,2017,0.168,0.794
+21316,697,Sierra,Gender Inequality Index,2017,0.6459999999999999,
+21317,698,Singapore,Gender Inequality Index,2017,0.066,0.934
+21318,699,Slovakia,Gender Inequality Index,2017,0.187,0.8540000000000001
+21319,700,Slovenia,Gender Inequality Index,2017,0.053,0.899
+21320,701,South,Gender Inequality Index,2017,0.424,
+21321,702,Spain,Gender Inequality Index,2017,0.077,0.8909999999999999
+21322,703,Sri,Gender Inequality Index,2017,0.381,
+21323,704,Sudan,Gender Inequality Index,2017,0.5660000000000001,0.507
+21324,705,Suriname,Gender Inequality Index,2017,0.467,0.722
+21325,706,Sweden,Gender Inequality Index,2017,0.043,0.935
+21326,707,Switzerland,Gender Inequality Index,2017,0.04,0.943
+21327,708,Syrian,Gender Inequality Index,2017,0.547,
+21328,709,Tajikistan,Gender Inequality Index,2017,0.374,0.6509999999999999
+21329,710,Tanzania,Gender Inequality Index,2017,0.539,
+21330,711,Thailand,Gender Inequality Index,2017,0.386,0.762
+21331,712,Togo,Gender Inequality Index,2017,0.5670000000000001,0.51
+21332,713,Tonga,Gender Inequality Index,2017,0.419,0.7170000000000001
+21333,714,Trinidad,Gender Inequality Index,2017,0.327,
+21334,715,Tunisia,Gender Inequality Index,2017,0.299,0.738
+21335,716,Turkey,Gender Inequality Index,2017,0.321,0.805
+21336,717,Uganda,Gender Inequality Index,2017,0.532,0.522
+21337,718,Ukraine,Gender Inequality Index,2017,0.289,0.747
+21338,719,United,Gender Inequality Index,2017,0.138,
+21339,720,United,Gender Inequality Index,2017,0.128,
+21340,721,United,Gender Inequality Index,2017,0.20199999999999999,
+21341,722,Uruguay,Gender Inequality Index,2017,0.276,0.807
+21342,723,Uzbekistan,Gender Inequality Index,2017,0.303,0.7070000000000001
+21343,724,Venezuela,Gender Inequality Index,2017,0.45899999999999996,
+21344,725,Viet,Gender Inequality Index,2017,0.318,
+21345,726,Yemen,Gender Inequality Index,2017,0.835,0.46299999999999997
+21346,727,Zambia,Gender Inequality Index,2017,0.5429999999999999,0.589
+21347,728,Zimbabwe,Gender Inequality Index,2017,0.528,0.5529999999999999
+21348,756,Afghanistan,Gender Inequality Index,2018,0.575,0.496
+21349,757,Albania,Gender Inequality Index,2018,0.23399999999999999,0.7909999999999999
+21350,758,Algeria,Gender Inequality Index,2018,0.44299999999999995,0.759
+21351,759,Angola,Gender Inequality Index,2018,0.578,0.574
+21352,760,Argentina,Gender Inequality Index,2018,0.354,0.83
+21353,761,Armenia,Gender Inequality Index,2018,0.259,0.76
+21354,762,Australia,Gender Inequality Index,2018,0.10300000000000001,0.938
+21355,763,Austria,Gender Inequality Index,2018,0.073,0.914
+21356,764,Azerbaijan,Gender Inequality Index,2018,0.321,0.754
+21357,765,Bahamas,Gender Inequality Index,2018,0.353,0.805
+21358,766,Bahrain,Gender Inequality Index,2018,0.207,0.838
+21359,767,Bangladesh,Gender Inequality Index,2018,0.536,0.614
+21360,768,Barbados,Gender Inequality Index,2018,0.256,0.813
+21361,769,Belarus,Gender Inequality Index,2018,0.11900000000000001,0.8170000000000001
+21362,770,Belgium,Gender Inequality Index,2018,0.045,0.919
+21363,771,Belize,Gender Inequality Index,2018,0.391,0.72
+21364,772,Benin,Gender Inequality Index,2018,0.613,0.52
+21365,773,Bhutan,Gender Inequality Index,2018,0.436,0.617
+21366,774,Bolivia,Gender Inequality Index,2018,0.446,
+21367,775,Bosnia,Gender Inequality Index,2018,0.162,
+21368,776,Botswana,Gender Inequality Index,2018,0.46399999999999997,0.728
+21369,777,Brazil,Gender Inequality Index,2018,0.386,0.7609999999999999
+21370,778,Brunei,Gender Inequality Index,2018,0.23399999999999999,
+21371,779,Bulgaria,Gender Inequality Index,2018,0.218,0.816
+21372,780,Burkina,Gender Inequality Index,2018,0.612,
+21373,781,Burundi,Gender Inequality Index,2018,0.52,0.423
+21374,782,Cabo,Gender Inequality Index,2018,0.37200000000000005,
+21375,783,Cambodia,Gender Inequality Index,2018,0.474,0.581
+21376,784,Cameroon,Gender Inequality Index,2018,0.5660000000000001,0.563
+21377,785,Canada,Gender Inequality Index,2018,0.083,0.922
+21378,786,Central,Gender Inequality Index,2018,0.682,
+21379,787,Chad,Gender Inequality Index,2018,0.701,0.401
+21380,788,Chile,Gender Inequality Index,2018,0.28800000000000003,0.847
+21381,789,China,Gender Inequality Index,2018,0.163,0.758
+21382,790,Colombia,Gender Inequality Index,2018,0.41100000000000003,0.7609999999999999
+21383,791,Congo,Gender Inequality Index,2018,0.579,0.609
+21384,792,Congo,Gender Inequality Index,2018,0.655,0.609
+21385,793,Costa,Gender Inequality Index,2018,0.285,
+21386,794,Croatia,Gender Inequality Index,2018,0.122,0.8370000000000001
+21387,795,Cuba,Gender Inequality Index,2018,0.313,0.778
+21388,796,Cyprus,Gender Inequality Index,2018,0.086,0.873
+21389,797,Czechia,Gender Inequality Index,2018,0.13699999999999998,0.8909999999999999
+21390,798,Côte,Gender Inequality Index,2018,0.657,
+21391,799,Denmark,Gender Inequality Index,2018,0.04,0.93
+21392,800,Dominican,Gender Inequality Index,2018,0.45299999999999996,
+21393,801,Ecuador,Gender Inequality Index,2018,0.389,0.758
+21394,802,Egypt,Gender Inequality Index,2018,0.45,0.7
+21395,803,El,Gender Inequality Index,2018,0.397,
+21396,804,Estonia,Gender Inequality Index,2018,0.091,0.882
+21397,805,Eswatini,Gender Inequality Index,2018,0.579,
+21398,806,Ethiopia,Gender Inequality Index,2018,0.508,0.47
+21399,807,Fiji,Gender Inequality Index,2018,0.35700000000000004,0.7240000000000001
+21400,808,Finland,Gender Inequality Index,2018,0.05,0.925
+21401,809,France,Gender Inequality Index,2018,0.051,0.8909999999999999
+21402,810,Gabon,Gender Inequality Index,2018,0.534,0.7020000000000001
+21403,811,Gambia,Gender Inequality Index,2018,0.62,0.466
+21404,812,Georgia,Gender Inequality Index,2018,0.35100000000000003,0.7859999999999999
+21405,813,Germany,Gender Inequality Index,2018,0.084,0.9390000000000001
+21406,814,Ghana,Gender Inequality Index,2018,0.541,0.596
+21407,815,Greece,Gender Inequality Index,2018,0.122,0.872
+21408,816,Guatemala,Gender Inequality Index,2018,0.49200000000000005,0.6509999999999999
+21409,817,Guyana,Gender Inequality Index,2018,0.49200000000000005,0.67
+21410,818,Haiti,Gender Inequality Index,2018,0.62,0.503
+21411,819,Honduras,Gender Inequality Index,2018,0.479,0.623
+21412,820,Hungary,Gender Inequality Index,2018,0.258,0.845
+21413,821,Iceland,Gender Inequality Index,2018,0.057,0.938
+21414,822,India,Gender Inequality Index,2018,0.501,0.647
+21415,823,Indonesia,Gender Inequality Index,2018,0.451,0.7070000000000001
+21416,824,Iran,Gender Inequality Index,2018,0.49200000000000005,
+21417,825,Iraq,Gender Inequality Index,2018,0.54,0.6890000000000001
+21418,826,Ireland,Gender Inequality Index,2018,0.09300000000000001,0.9420000000000001
+21419,827,Israel,Gender Inequality Index,2018,0.1,0.9059999999999999
+21420,828,Italy,Gender Inequality Index,2018,0.069,0.883
+21421,829,Jamaica,Gender Inequality Index,2018,0.405,0.726
+21422,830,Japan,Gender Inequality Index,2018,0.099,0.915
+21423,831,Jordan,Gender Inequality Index,2018,0.469,0.723
+21424,832,Kazakhstan,Gender Inequality Index,2018,0.203,0.8170000000000001
+21425,833,Kenya,Gender Inequality Index,2018,0.545,0.579
+21426,834,Korea,Gender Inequality Index,2018,0.057999999999999996,
+21427,835,Kuwait,Gender Inequality Index,2018,0.245,0.8079999999999999
+21428,836,Kyrgyzstan,Gender Inequality Index,2018,0.381,0.674
+21429,837,Lao,Gender Inequality Index,2018,0.46299999999999997,
+21430,838,Latvia,Gender Inequality Index,2018,0.16899999999999998,0.8540000000000001
+21431,839,Lebanon,Gender Inequality Index,2018,0.36200000000000004,0.73
+21432,840,Lesotho,Gender Inequality Index,2018,0.546,0.518
+21433,841,Liberia,Gender Inequality Index,2018,0.6509999999999999,0.465
+21434,842,Libya,Gender Inequality Index,2018,0.172,0.708
+21435,843,Lithuania,Gender Inequality Index,2018,0.124,0.8690000000000001
+21436,844,Luxembourg,Gender Inequality Index,2018,0.078,0.909
+21437,845,Malawi,Gender Inequality Index,2018,0.615,0.485
+21438,846,Malaysia,Gender Inequality Index,2018,0.27399999999999997,0.804
+21439,847,Maldives,Gender Inequality Index,2018,0.36700000000000005,0.7190000000000001
+21440,848,Mali,Gender Inequality Index,2018,0.6759999999999999,0.42700000000000005
+21441,849,Malta,Gender Inequality Index,2018,0.195,0.885
+21442,850,Mauritania,Gender Inequality Index,2018,0.62,0.527
+21443,851,Mauritius,Gender Inequality Index,2018,0.369,0.7959999999999999
+21444,852,Mexico,Gender Inequality Index,2018,0.33399999999999996,0.767
+21445,853,Moldova,Gender Inequality Index,2018,0.228,
+21446,854,Mongolia,Gender Inequality Index,2018,0.322,0.735
+21447,855,Montenegro,Gender Inequality Index,2018,0.11900000000000001,0.816
+21448,856,Morocco,Gender Inequality Index,2018,0.49200000000000005,0.6759999999999999
+21449,857,Mozambique,Gender Inequality Index,2018,0.569,0.446
+21450,858,Myanmar,Gender Inequality Index,2018,0.45899999999999996,0.584
+21451,859,Namibia,Gender Inequality Index,2018,0.46,0.645
+21452,860,Nepal,Gender Inequality Index,2018,0.47600000000000003,0.579
+21453,861,Netherlands,Gender Inequality Index,2018,0.040999999999999995,0.934
+21454,862,New,Gender Inequality Index,2018,0.133,
+21455,863,Nicaragua,Gender Inequality Index,2018,0.455,0.6509999999999999
+21456,864,Niger,Gender Inequality Index,2018,0.647,0.377
+21457,865,North,Gender Inequality Index,2018,0.145,
+21458,866,Norway,Gender Inequality Index,2018,0.044000000000000004,0.9540000000000001
+21459,867,Oman,Gender Inequality Index,2018,0.304,0.8340000000000001
+21460,868,Pakistan,Gender Inequality Index,2018,0.547,0.56
+21461,869,Panama,Gender Inequality Index,2018,0.46,0.795
+21462,870,Papua,Gender Inequality Index,2018,0.74,
+21463,871,Paraguay,Gender Inequality Index,2018,0.48200000000000004,0.7240000000000001
+21464,872,Peru,Gender Inequality Index,2018,0.381,0.759
+21465,873,Philippines,Gender Inequality Index,2018,0.425,0.7120000000000001
+21466,874,Poland,Gender Inequality Index,2018,0.12,0.872
+21467,875,Portugal,Gender Inequality Index,2018,0.081,0.85
+21468,876,Qatar,Gender Inequality Index,2018,0.20199999999999999,0.848
+21469,877,Romania,Gender Inequality Index,2018,0.316,0.816
+21470,878,Russian,Gender Inequality Index,2018,0.255,
+21471,879,Rwanda,Gender Inequality Index,2018,0.41200000000000003,0.536
+21472,880,Saint,Gender Inequality Index,2018,0.33299999999999996,
+21473,881,Samoa,Gender Inequality Index,2018,0.364,0.7070000000000001
+21474,882,Sao,Gender Inequality Index,2018,0.547,
+21475,883,Saudi,Gender Inequality Index,2018,0.22399999999999998,
+21476,884,Senegal,Gender Inequality Index,2018,0.523,0.514
+21477,885,Serbia,Gender Inequality Index,2018,0.162,0.799
+21478,886,Sierra,Gender Inequality Index,2018,0.644,
+21479,887,Singapore,Gender Inequality Index,2018,0.065,0.935
+21480,888,Slovakia,Gender Inequality Index,2018,0.19,0.857
+21481,889,Slovenia,Gender Inequality Index,2018,0.069,0.902
+21482,890,South,Gender Inequality Index,2018,0.42200000000000004,
+21483,891,Spain,Gender Inequality Index,2018,0.07400000000000001,0.893
+21484,892,Sri,Gender Inequality Index,2018,0.38,
+21485,893,Sudan,Gender Inequality Index,2018,0.56,0.508
+21486,894,Suriname,Gender Inequality Index,2018,0.465,0.7240000000000001
+21487,895,Sweden,Gender Inequality Index,2018,0.04,0.937
+21488,896,Switzerland,Gender Inequality Index,2018,0.037000000000000005,0.946
+21489,897,Syrian,Gender Inequality Index,2018,0.547,
+21490,898,Tajikistan,Gender Inequality Index,2018,0.377,0.6559999999999999
+21491,899,Tanzania,Gender Inequality Index,2018,0.539,
+21492,900,Thailand,Gender Inequality Index,2018,0.377,0.765
+21493,901,Togo,Gender Inequality Index,2018,0.5660000000000001,0.513
+21494,902,Tonga,Gender Inequality Index,2018,0.418,0.7170000000000001
+21495,903,Trinidad,Gender Inequality Index,2018,0.324,
+21496,904,Tunisia,Gender Inequality Index,2018,0.3,0.7390000000000001
+21497,905,Turkey,Gender Inequality Index,2018,0.305,0.807
+21498,906,Uganda,Gender Inequality Index,2018,0.531,0.528
+21499,907,Ukraine,Gender Inequality Index,2018,0.284,0.75
+21500,908,United,Gender Inequality Index,2018,0.113,
+21501,909,United,Gender Inequality Index,2018,0.11900000000000001,
+21502,910,United,Gender Inequality Index,2018,0.182,
+21503,911,Uruguay,Gender Inequality Index,2018,0.275,0.8079999999999999
+21504,912,Uzbekistan,Gender Inequality Index,2018,0.303,0.71
+21505,913,Venezuela,Gender Inequality Index,2018,0.45799999999999996,
+21506,914,Viet,Gender Inequality Index,2018,0.314,
+21507,915,Yemen,Gender Inequality Index,2018,0.8340000000000001,0.46299999999999997
+21508,916,Zambia,Gender Inequality Index,2018,0.54,0.591
+21509,917,Zimbabwe,Gender Inequality Index,2018,0.525,0.563

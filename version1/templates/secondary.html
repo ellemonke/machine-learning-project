@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Predicting HDI: Secondary Indicators</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+
+<body>
+    <div class="container-fluid">
+
+        <!-- Header -->
+        <header class="row">
+            <h1><a href="/">Predicting HDI</a></h1>
+            <!-- Navigation -->
+            <nav>
+                <ul>
+                    <li><a href="/">Our Research</a></li>
+                    <li><a href="/primary">Primary Indicators</a></li>
+                    <li class="active">Secondary Indicators</li>
+                    <li><a href="/predictor">Predicting HDI</a></li>
+                </ul>
+            </nav>
+        </header>
+        <!-- Body Content -->
+        <div>
+            <!-- Indicator Category Tabs-->
+            <ul id="myTab" role="tablist"
+                class="nav nav-tabs nav-pills with-arrow lined flex-column flex-sm-row text-center">
+                <li class="nav-item flex-sm-fill">
+                    <a id="edu-tab" data-toggle="tab" href="#edu" role="tab" aria-controls="edu" aria-selected="true"
+                        class="nav-link text-uppercase font-weight-bold mr-sm-3 rounded-0 active">Education</a>
+                </li>
+                <li class="nav-item flex-sm-fill">
+                    <a id="gen-tab" data-toggle="tab" href="#gen" role="tab" aria-controls="gen" aria-selected="false"
+                        class="nav-link text-uppercase font-weight-bold mr-sm-3 rounded-0">Gender</a>
+                </li>
+                <li class="nav-item flex-sm-fill">
+                    <a id="acc-tab" data-toggle="tab" href="#acc" role="tab" aria-controls="acc" aria-selected="false"
+                        class="nav-link text-uppercase font-weight-bold rounded-0">Access</a>
+                </li>
+            </ul>
+            <div id="myTabContent" class="tab-content">
+                    <div id="edu" role="tabpanel" aria-labelledby="edu-tab" class="tab-pane fade px-4 py-5 show active">
+                <!--Section: Education-->
+                <section id="education">
+                
+                        <!--Grid row-->
+                        <div class="row carousel-row">
+                
+                            <!--Grid column-->
+                            <div class="col-xs-12 col-sm-12 col-md-5 col-lg-6">
+                
+                                <!--Carousel Wrapper-->
+                                <div id="edu-chart" class="carousel slide">
+                
+                                    <!-- Indicators -->
+                                    <ul class="carousel-indicators">
+                                        <li data-target="#edu-chart" data-slide-to="0" class="active"></li>
+                                        <li data-target="#edu-chart" data-slide-to="1"></li>
+                                        <li data-target="#edu-chart" data-slide-to="2"></li>
+                                        <li data-target="#edu-chart" data-slide-to="3"></li>
+                                        <li data-target="#edu-chart" data-slide-to="4"></li>
+                                        <li data-target="#edu-chart" data-slide-to="5"></li>
+                                    </ul>
+                
+                                    <!-- The slideshow -->
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <div class="image-wrap">
+                                                <img src="/static/images/Education_HDI.png" alt="Education Index">
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <div class="image-wrap">
+                                                <img src="/static/images/WorkForceBasicEducation_HDI.png"
+                                                    alt="Workforce with Basic Education">
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <div class="image-wrap">
+                                                <img src="/static/images/WorkForceIntermediateEducation_HDI.png"
+                                                    alt="Workforce with Intermediate Education">
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <div class="image-wrap">
+                                                <img src="/static/images/WorkForceAdvancedEducation_HDI.png"
+                                                    alt="Workforce with Advanced Education">
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <div class="image-wrap">
+                                                <img src="/static/images/Literacy_HDI.png" alt="Adult Literacy">
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <div class="image-wrap">
+                                                <img src="/static/images/ExpenditureEducation_HDI.png"
+                                                    alt="Government Expenditure on Education">
+                                            </div>
+                                        </div>
+                                    </div>
+                
+                                    <!-- Left and right controls -->
+                                    <a class="carousel-control-prev" href="#edu-chart" data-slide="prev">
+                                        <span class="carousel-control-prev-icon"></span>
+                                    </a>
+                                    <a class="carousel-control-next" href="#edu-chart" data-slide="next">
+                                        <span class="carousel-control-next-icon"></span>
+                                    </a>
+                                </div>
+                                <!--/.Carousel Wrapper-->
+                            </div>
+                            <!--Grid column-->
+                
+                            <!--Grid column 2 Start-->
+                            <div class="col-xs-12 col-sm-12 col-md-5 col-lg-6">
+                
+                                <!--Excerpt-->
+                                <h3>Education Indicators</h3>
+                
+                                <h6><strong>How education plays a role in the Human Development Index.</strong></h6>
+                                <br>
+                                <p>To the left you will find a chart demonstrating the relationship between Education Index and
+                                    Human Development Index. You can see that there is a clear linear relationship between a
+                                    country's Education Index and its Human Development Index.
+                                </p>
+                                <p>By striving to increase the availability of basic education and encouraging advanced
+                                    education
+                                    for all citizens, countries can potentially increase their overall HDI. Scroll through the
+                                    chart carousel to view select indicators that countries could focus goals around to increase
+                                    their overall Human Development Index.
+                                </p>
+                            </div>
+                            <!--Grid column 2 End-->
+                
+                        </div>
+                        <!--Grid row-->
+                
+                    </section>
+                    </div>
+                    <div id="gen" role="tabpanel" aria-labelledby="gen-tab" class="tab-pane fade px-4 py-5">
+                        <!--Section: Gender Indicators-->
+                            <section id="gender">
+                
+                                    <!--Grid row-->
+                                    <div class="row carousel-row">
+                            
+                                        <!--Grid column-->
+                                        <div class="col-xs-12 col-sm-12 col-md-5 col-lg-6">
+                            
+                                            <!--Carousel Wrapper-->
+                                            <div id="gen-chart" class="carousel slide">
+                            
+                                                <!-- Indicators -->
+                                                <ul class="carousel-indicators">
+                                                    <li data-target="#gen-chart" data-slide-to="0" class="active"></li>
+                                                    <li data-target="#gen-chart" data-slide-to="1"></li>
+                                                    <li data-target="#gen-chart" data-slide-to="2"></li>
+                                                    <li data-target="#gen-chart" data-slide-to="3"></li>
+                                                    <li data-target="#gen-chart" data-slide-to="4"></li>
+                                                    <li data-target="#gen-chart" data-slide-to="5"></li>
+                                                </ul>
+                            
+                                                <!-- The slideshow -->
+                                                <div class="carousel-inner">
+                                                    <div class="carousel-item active">
+                                                        <div class="image-wrap">
+                                                            <img src="/static/images/GII_HDI.png" alt="Gender Inequality Index">
+                                                        </div>
+                                                    </div>
+                                                    <div class="carousel-item">
+                                                        <div class="image-wrap">
+                                                            <img src="/static/images/Female_Labor_Force.png"
+                                                                alt="Female Labor Force">
+                                                        </div>
+                                                    </div>
+                                                    <div class="carousel-item">
+                                                        <div class="image-wrap">
+                                                            <img src="/static/images/Primary_GPI.png"
+                                                                alt="Primary School Parity">
+                                                        </div>
+                                                    </div>
+                                                    <div class="carousel-item">
+                                                        <div class="image-wrap">
+                                                                <img src="/static/images/Secondary_GPI.png"
+                                                                alt="Secondary School Parity">
+                                                        </div>
+                                                    </div>
+                                                    <div class="carousel-item">
+                                                        <div class="image-wrap">
+                                                                <img src="/static/images/Tertiary_GPI.png"
+                                                                alt="Tertiary School Parity">
+                                                        </div>
+                                                    </div>
+                                                    <div class="carousel-item">
+                                                        <div class="image-wrap">
+                                                            <img src="/static/images/Women_ParliamentSeats.png"
+                                                                alt="Women in Parliament">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                            
+                                                <!-- Left and right controls -->
+                                                <a class="carousel-control-prev" href="#gen-chart" data-slide="prev">
+                                                    <span class="carousel-control-prev-icon"></span>
+                                                </a>
+                                                <a class="carousel-control-next" href="#gen-chart" data-slide="next">
+                                                    <span class="carousel-control-next-icon"></span>
+                                                </a>
+                                            </div>
+                                            <!--/.Carousel Wrapper-->
+                                        </div>
+                                        <!--Grid column-->
+                            
+                                        <!--Grid column 2 Start-->
+                                        <div class="col-xs-12 col-sm-12 col-md-5 col-lg-6">
+                            
+                                            <!--Excerpt-->
+                                            <h3>Gender Indicators</h3>
+                                            <h6><strong>How gender parity plays a role in the Human Development Index.</strong></h6>
+                                            <br>
+                                            <p>To the left you will find a chart demonstrating the relationship between Gender Inequality Index and
+                                                Human Development Index. As the Gender Inequality Index increases the Human Development Index decreases. 
+                                                It is like that gender equality is something that all countries should strive for if they wish to increase 
+                                                their Human Development Index.
+                                            </p>
+                                            <p>To get a more indepth looks at gender (as it relates to the Human Development Index), scroll through the
+                                                subsquent charts included in this tab. 
+                                            </p>
+                                        </div>
+                                        <!--Grid column 2 End-->
+                            
+                                    </div>
+                                    <!--Grid row-->
+                            
+                                </section>
+                    </div>
+                    <div id="acc" role="tabpanel" aria-labelledby="acc-tab" class="tab-pane fade px-4 py-5">
+                       <!--Section: Access Indicators-->
+                       <section id="access">
+                
+                            <!--Grid row-->
+                            <div class="row carousel-row">
+                    
+                                <!--Grid column-->
+                                <div class="col-xs-12 col-sm-12 col-md-5 col-lg-6">
+                    
+                                    <!--Carousel Wrapper-->
+                                    <div id="acc-chart" class="carousel slide" data-ride="carousel">
+                    
+                                        <!-- Indicators -->
+                                        <ul class="carousel-indicators">
+                                            <li data-target="#acc-chart" data-slide-to="0" class="active"></li>
+                                            <li data-target="#acc-chart" data-slide-to="1"></li>
+                                            <li data-target="#acc-chart" data-slide-to="2"></li>
+                                            <li data-target="#acc-chart" data-slide-to="3"></li>
+                                            <li data-target="#acc-chart" data-slide-to="4"></li>
+                                            <li data-target="#acc-chart" data-slide-to="5"></li>
+                                        </ul>
+                    
+                                        <!-- The slideshow -->
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <div class="image-wrap">
+                                                    <img src="/static/images/Water_HDI.png" alt="Water Access">
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div class="image-wrap">
+                                                    <img src="/static/images/Electric_HDI.png"
+                                                        alt="Electricity Access">
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div class="image-wrap">
+                                                    <img src="/static/images/Cooking_HDI.png"
+                                                        alt="Cooking Fuel Access">
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div class="image-wrap">
+                                                        <img src="/static/images/Internet_HDI.png"
+                                                        alt="Broadband Access">
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                <div class="image-wrap">
+                                                        <img src="/static/images/Mobile_HDI.png"
+                                                        alt="Mobile Devices">
+                                                </div>
+                                            </div>
+                                            <div class="carousel-item">
+                                                    <div class="image-wrap">
+                                                            <img src="/static/images/Sanitation_HDI.png"
+                                                            alt="Sanitation Services">
+                                                    </div>
+                                                </div>
+                                        </div>
+                    
+                                        <!-- Left and right controls -->
+                                        <a class="carousel-control-prev" href="#acc-chart" data-slide="prev">
+                                            <span class="carousel-control-prev-icon"></span>
+                                        </a>
+                                        <a class="carousel-control-next" href="#acc-chart" data-slide="next">
+                                            <span class="carousel-control-next-icon"></span>
+                                        </a>
+                                    </div>
+                                    <!--/.Carousel Wrapper-->
+                                </div>
+                                <!--Grid column-->
+                    
+                                <!--Grid column 2 Start-->
+                                <div class="col-xs-12 col-sm-12 col-md-5 col-lg-6">
+                    
+                                    <!--Excerpt-->
+                                    <h3>Access Indicators</h3>
+                                    <h6><strong>How access to necessities plays a role in the Human Development Index.</strong></h6>
+                                    <p>On the left there are several charts demonstrating the relationship between various 
+                                         necessities and the Human Development Index. You can see that basic needs 
+                                         and technological needs are both significant factors in a high Human Development Index.  
+                                    </p>
+                                    <p>While priority should likely be placed on at least basic access to electricity, sanitation services, 
+                                        clean water and cooking fuels it is becoming increasingly necessary to ensure that the population also 
+                                        has access to communication and technology services.
+                                    </p>
+                                </div>
+                                <!--Grid column 2 End-->
+                    
+                            </div>
+                            <!--Grid row-->
+                    
+                        </section>
+                    </div>
+                </div>
+                </div>
+            
+            <!-- Footer -->
+            <footer class="row">
+                <p>&copy;2020 Ellen Hsu, Samita Limbu, Lindsey McKenna - University of Oregon Data Analytics Boot Camp.
+                </p>
+            </footer>
+            <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+        </div>
+</body>
+
+</html>
+
+<!-- End lined tabs -->

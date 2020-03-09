@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Predicting HDI: Home</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}" />
+</head>
+
+<body>
+  <div class="container-fluid">
+
+    <!-- Header -->
+    <header class="row">
+      <h1><a href="/">Predicting HDI</a></h1>
+      <!-- Navigation -->
+      <nav>
+          <ul>
+              <li class="active">Our Research</li>
+              <li><a href="/primary">Primary Indicators</a></li>
+              <li><a href="/secondary">Secondary Indicators</a></li>
+              <li><a href="/predictor">Predicting HDI</a></li>
+          </ul>
+      </nav>
+    </header>
+
+    <div class="row main-content">
+      <h3>Our Research</h3>
+      <p>For this project we were interested in analyzing the <a
+        href="http://datatopics.worldbank.org/world-development-indicators/" target="_blank">World Development Indicators (WDI)</a>
+        that have been tracked by the World Bank for more than 50 years in order to help achieve global development goals. 
+        In conjunction, the U.N. has developed the <a 
+        href="http://hdr.undp.org/en/data#" target="_blank">Human Development Index (HDI)</a> to focus 
+        on the criteria that define human achievement beyond just economic development. We wanted to discover which WDIs in 
+        particular affect HDI and what level of values can help increase HDI. Our "primary" indicators 
+        were simply those that most countries have data for and have been tracked the longest. Our "secondary" indicators are ones
+        that we discovered to be highly related to HDI and worth exploring, despite less availability of tracked data.</p>
+
+      <h3>The Machine Learning Models</h3>
+      <p>For this project, we used linear and multilinear regression models since HDI was numerical and we had a few features/indicators 
+        to consider. During the charting and modelling process we discovered which indicators, such as life expectancy and
+        education, weighed on the model much more heavily than others because they had strong linear relationships 
+        individually with HDI. For more moderate indicators, the ML model allowed us to create combinations of either 
+        known or estimated WDI values to try and reach the highest HDI.</p>
+
+      <h3>Summary Findings</h3>
+      <p>Economists often use GDP as the primary measure of a country's achievement or productivity. In our research however, when
+        we focused on human development (HDI) as our measure of success, certain indicators came to light as having strong 
+        influence on HDI. Surprisingly, GDP and GNI were only moderately relevant to human development; agriculture was inversely 
+        related to HDI; and population and employment were not likely related to HDI. While exploring other indicators, 
+        we discovered that education, gender equality, and access to basic and technological necessities were heavily relevant to
+        HDI. By using a model and exploring the less obvious indicators, we hope to uncover achievable and quantifiable
+        measures - besides what has historically been focused on - to improve human 
+        development and goal-setting for each country and/or the global community.</p>
+    </div>
+
+    <!-- Footer -->
+    <footer class="row">
+      <p>&copy;2020 Ellen Hsu, Samita Limbu, Lindsey McKenna - University of Oregon Data Analytics Boot Camp.</p>
+    </footer>
+
+  </div>
+</body>
+</html>
