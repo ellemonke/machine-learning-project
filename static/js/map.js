@@ -1,25 +1,20 @@
+var url = `../resources/Happiness_2019.csv`;
+
 google.charts.load('current', {
-        'packages':['geochart'],
-        // Note: you will need to get a mapsApiKey for your project.
-        // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
-        'mapsApiKey': 'AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY'
-      });
-      google.charts.setOnLoadCallback(drawRegionsMap);
+  'packages': ['geochart'],
+  'mapsApiKey': 'AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY',
+  callback: function () {
+    $.get(url, function (csvString) {
 
-      function drawRegionsMap() {
-        var data = google.visualization.arrayToDataTable([
-          ['Country', 'Popularity'],
-          ['Germany', 200],
-          ['United States', 300],
-          ['Brazil', 400],
-          ['Canada', 500],
-          ['France', 600],
-          ['RU', 700]
-        ]);
+      var arrayData = $.csv.toArrays(csvString, { onParseValue: $.csv.hooks.castToScalar });
+      var data = new google.visualization.arrayToDataTable(arrayData);
+      
+      var options = {}
+      
+      var chart = new google.visualization.GeoChart(document.getElementById('map_div'));
 
-        var options = {};
-
-        var chart = new google.visualization.GeoChart(document.getElementById('map_div'));
-
-        chart.draw(data, options);
-      }
+      chart.draw(data, options);
+    })
+  }
+})
+}

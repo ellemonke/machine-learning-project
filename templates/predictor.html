@@ -11,7 +11,7 @@
     crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
     integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}" />
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}" />
 </head>
 
 <body>
@@ -26,6 +26,7 @@
           <li><a href="/">Our Research</a></li>
           <li><a href="/primary">Primary Indicators</a></li>
           <li><a href="/secondary">Secondary Indicators</a></li>
+          <li><a href="/map">Map</a></li>
           <li class="active">Predicting HDI</a></li>
         </ul>
       </nav>
@@ -43,23 +44,23 @@
 
             <div class="row">
               <label class="right" for="lifeexpectancy">Life Expectancy (Years)</label>
-              <input class="wide" name="lifeexpectancy"> <small>(max 120)</small>
+              <input class="wide" name="lifeexpectancy" value="{{ lifeexpectancy }}"> <small>(max 120)</small>
             </div>
             <div class="row">
               <label class="right" for="agriculture">Agriculture (% of GDP)</label>
-              <input class="wide" name="agriculture"> <small>(max 100)</small>
+              <input class="wide" name="agriculture" value="{{ agriculture }}"> <small>(max 100)</small>
             </div>
             <div class="row">
               <label class="right" for="gdp">GDP per capita (USD)</label>
-              <input class="wide" name="gdp"> <small>(max 120,000)</small>
+              <input class="wide" name="gdp" value="{{ gdp }}"> <small>(max 120,000)</small>
             </div>
             <div class="row">
               <label class="right" for="gni">GNI per capita (USD)</label>
-              <input class="wide" name="gni"> <small>(max 120,000)</small>
+              <input class="wide" name="gni" value="{{ gni }}"> <small>(max 120,000)</small>
             </div>
             <div class="row">
               <label class="right" for="population">Population (million)</label>
-              <input class="wide" name="population"> <small>(max 8,000)</small>
+              <input class="wide" name="population" value="{{ population }}"> <small>(max 8,000)</small>
             </div>
 
             <div class="row submit">
@@ -70,7 +71,7 @@
               </div>
             </div>
 
-            <div class="row scores">
+            <div class="row scores" id="both_scores">
               <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
                 <h5 style="margin-left: 8px;">Model Score:</h5>
                 <div id="score">{{ score }}</div>
@@ -81,6 +82,7 @@
                 <div id="hdi">{{ hdi }}</div>
               </div>
             </div>
+
             <!-- Left and right controls -->
             <a class="carousel-control-prev" href="#demo" data-slide="prev">
               <span class="carousel-control-prev-icon"></span>
@@ -132,6 +134,34 @@
     </footer>
 
   </div>
+
+  <!-- AJAX form handling -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+  <script>
+  // Get multiple input values
+  $.getJSON("/score", function (data) {
+    $.each(data, function (key, val) {
+      $("#"+key).val(val);
+    });
+  });        
+
+  // Keep the values in the input boxes 
+  $( "input[class$='wide']" ).submit(function(){
+      var form_value = $(this).val();
+  
+      $.ajax({
+        type: "GET",
+        url: "/score",
+        data: form_value,
+        cache: false,
+        success: function(text) {
+          $("#both_scores").html(text);
+        }
+      });
+  });
+  </script>
+
 </body>
 
 </html>
