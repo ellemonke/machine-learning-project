@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Predicting HDI: The App</title>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+    integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}" />
+</head>
+
+<body>
+  <div class="container-fluid">
+
+    <!-- Header -->
+    <header class="row">
+      <h1><a href="/">Predicting HDI</a></h1>
+      <!-- Navigation -->
+      <nav>
+        <ul>
+          <li><a href="/">Our Research</a></li>
+          <li><a href="/primary">Primary Indicators</a></li>
+          <li><a href="/secondary">Secondary Indicators</a></li>
+          <li class="active">Predicting HDI</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class="row main-content">
+
+      <div class="app col-xs-12 col-sm-12 col-md-5 col-lg-5">
+        <h3>World Development Indicators (WDI)</h3>
+
+        <form class="row" method="post" action="{{ url_for('score') }}">
+          <div class="form-group">
+
+            <p>Fill in one or more values below to calculate a model <br>score and predict an HDI.</p>
+
+            <div class="row">
+              <label class="right" for="lifeexpectancy">Life Expectancy (Years)</label>
+              <input class="wide" name="lifeexpectancy"> <small>(max 120)</small>
+            </div>
+            <div class="row">
+              <label class="right" for="agriculture">Agriculture (% of GDP)</label>
+              <input class="wide" name="agriculture"> <small>(max 100)</small>
+            </div>
+            <div class="row">
+              <label class="right" for="gdp">GDP per capita (USD)</label>
+              <input class="wide" name="gdp"> <small>(max 120,000)</small>
+            </div>
+            <div class="row">
+              <label class="right" for="gni">GNI per capita (USD)</label>
+              <input class="wide" name="gni"> <small>(max 120,000)</small>
+            </div>
+            <div class="row">
+              <label class="right" for="population">Population (million)</label>
+              <input class="wide" name="population"> <small>(max 8,000)</small>
+            </div>
+
+            <div class="row submit">
+              <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
+              </div>
+              <div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+                <button class="btn btn-primary">Calculate</button>
+              </div>
+            </div>
+
+            <div class="row scores">
+              <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
+                <h5 style="margin-left: 8px;">Model Score:</h5>
+                <div id="score">{{ score }}</div>
+              </div>
+
+              <div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+                <h5 style="margin-left: 35px;">HDI:</h5>
+                <div id="hdi">{{ hdi }}</div>
+              </div>
+            </div>
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#demo" data-slide="prev">
+              <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo" data-slide="next">
+              <span class="carousel-control-next-icon"></span>
+            </a>
+          </div>
+        </form>
+      </div>
+
+      <div class="summary col-xs col-sm col-md col-lg">
+        <h4>Model Score</h4>
+        <p>Some WDIs - such as life expectancy and agriculture - contribute to HDI (Human Development Index) more than
+          others. The model score from 0 to 1 indicates how predictive or relevant the indicators are to HDI - 
+          independent of the actual values. A model score greater than or equal to 0.8 is considered a good predictive 
+          model.</p>
+        <h4>HDI</h4>
+        <p>Human Development Index (HDI) is a measure of how developed a country is from a scale of 0 to 1. Developed
+          countries are defined as having HDI > 0.8. Use the form to either test a country's known WDI values or test
+          different values to help predict HDI.</p>
+        <h4>Try it out!</h4>
+        <p>Let's try some examples. In 2017, the U.S. had an average life expectancy (from birth) of 78.5 years; GDP 
+          per capita was $59,928; GNI per capita was $59,030; population was 325 million; agriculture was 0.92% of 
+          GDP. What was the HDI in the U.S. in 2017? What would happen if life expectancy 
+          dropped to 60? What if you only knew the value for GDP per capita, for example $60,000? You might get a 
+          prediction, but the model score would be low and therefore not be a reliable indicator for HDI. Using the 
+          model to test different indicators, we can discover which ones have more of an affect on HDI and what
+          values can result in a high HDI, thus helping with goal setting for different countries.</p>
+
+        <p><a href="{{ url_for('static', filename='primary_pivot.csv') }}">Download the full list of countries and their 
+          primary WDI values.</a></p>
+        <hr>
+
+        <h4>Primary WDIs v. Secondary WDIs</h4>
+        <p>The form above focuses on primary WDIs because of the difference in data size between primary and secondary 
+          WDIs. For the primary WDIs, we had about 3,600 combined data points recorded since 1991. For the 
+          secondary WDIs, we had less than 1,000 data points each starting in 2014. We decided not to combine 
+          the primary and secondary WDIs so as not to adversely affect the accuracy of the multilinear model 
+          score above.</p>
+  
+      </div>
+
+    </div> <!-- End Main Content -->
+
+    <!-- Footer -->
+    <footer class="row">
+      <p>&copy;2020 Ellen Hsu, Samita Limbu, Lindsey McKenna - University of Oregon Data Analytics Boot Camp.</p>
+    </footer>
+
+  </div>
+</body>
+
+</html>

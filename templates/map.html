@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Predicting HDI: Home</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}" />
+</head>
+
+<body>
+  <div class="container-fluid">
+
+    <!-- Header -->
+    <header class="row">
+      <h1><a href="/">Predicting HDI</a></h1>
+      <!-- Navigation -->
+      <nav>
+          <ul>
+              <li class="active">Our Research</li>
+              <li><a href="/primary">Primary Indicators</a></li>
+              <li><a href="/secondary">Secondary Indicators</a></li>
+              <li class="active">Map</a></li>
+              <li><a href="/predictor">Predicting HDI</a></li>
+          </ul>
+      </nav>
+    </header>
+
+    <div class="row main-content">
+
+      <!-- Geochart -->
+      <section id="map" class="col col-12">
+        <div id="map_div" style="width: 1100px; height: 500px;"></div>
+        <h4>World Map</h4>
+        <form>
+            <select name="year" id="year">
+                <option value="2019">2019</option>
+                <!-- <option value="2018">2018</option>
+                <option value="2017">2017</option>
+                <option value="2016">2016</option>
+                <option value="2015">2015</option> -->
+            </select>
+            <select name="factor" id="factor">
+                <option value="Happiness">Happiness</option>
+                <!-- <option value="Economy">Economy</option>
+                <option value="Family">Family</option>
+                <option value="Health">Health</option>
+                <option value="Freedom">Freedom</option>
+                <option value="Trust">Trust</option>
+                <option value="Generosity">Generosity</option>
+                <option value="Dystopia">Residual</option> -->
+            </select>
+        </form>
+      </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer class="row">
+      <p>&copy;2020 Ellen Hsu, Samita Limbu, Lindsey McKenna - University of Oregon Data Analytics Boot Camp.</p>
+    </footer>
+
+  </div>
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.csv.js') }}"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='js/map.js') }}"></script>
+
+</body>
+</html>

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Predicting HDI: Secondary Indicators</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+
+<body>
+    <div class="container-fluid">
+
+        <!-- Header -->
+        <header class="row">
+            <h1><a href="/">Predicting HDI</a></h1>
+            <!-- Navigation -->
+            <nav>
+                <ul>
+                    <li><a href="/">Our Research</a></li>
+                    <li class="active">Primary Indicators</li>
+                    <li><a href="/secondary">Secondary Indicators</a></li>
+                    <li><a href="/predictor">Predicting HDI</a></li>
+                </ul>
+            </nav>
+        </header>
+        <!-- Body Content -->
+        <!--Section: Gallery-->
+        <section id="gallery">
+            <!--Grid row-->
+            <div class="row indicator-option"></div>
+
+            <!--Grid row-->
+            <div class="row">
+
+                <!--Carousel Wrapper-->
+                <div id="edu" class="carousel slide">
+
+                    <!-- Indicators -->
+                    <ul class="carousel-indicators">
+                        <li data-target="#edu" data-slide-to="0" class="active"></li>
+                        <li data-target="#edu" data-slide-to="1"></li>
+                        <li data-target="#edu" data-slide-to="2"></li>
+                        <li data-target="#edu" data-slide-to="3"></li>
+                    </ul>
+
+                    <!-- The slideshow -->
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="slide-wrap row">
+                                <div class="primary-image col-sm-12 col-md-6 col-lg-5">
+                                    <img src="/static/images/Life-expectancy_HDI.png" alt="Life-expectancy">
+                                </div>
+                                <div class="col-md-6 col-lg-7">
+                                    <div class="slide-text-wrap">
+
+                                        <!--Excerpt-->
+                                        <h3 >Impact of Life-expectancy on Human Development Index (HDI)</h3><br>
+                                        <p> Life-expectancy is a component of HDI. As expected there is a strong linear relationship 
+                                            between life-expectancy and HDI with R2-value = 0.83. Higher life-expectancy correlates with 
+                                            high HDI score. 
+                                        </p>
+                                        <p> High life-expectancy mean healthy and long life and is a outcome of better access to healthcare, 
+                                            nutrition, education etc hence a country with a high life-expectancy is expected to have a higher 
+                                            HDI score and vice versa. Therefore, life-expectancy is used as one of the components in our model 
+                                            to predict HDI.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="slide-wrap row">
+                                <div class="primary-image col-md-6 col-lg-5">
+                                    <img src="/static/images/Agriculture_HDI.png" alt="Agriculture contribution to GDP">
+                                </div>
+                                <div class="col-md-6 col-lg-7">
+                                    <div class="slide-text-wrap">
+
+                                        <!--Excerpt-->
+                                        <h3> Impact of Agriculture on Human Development Index (HDI)</h3><br>
+                                        <p> Percentage contribution of agriculture to GDP was inversely related to HDI with 
+                                            R2-value = 0.67 which means if a nation's GDP is highly dependent on Agriculture 
+                                            then the country is expected to have lower HDI. 
+                                        </p>
+                                        <p> Strength of a country's economy is defined by advancement in industries and services
+                                            and less by agricultural activities. However, agriculture still remain the major source
+                                            employment in the world.
+                                            Because of the strength of the relationship between agricultural contribution and HDI
+                                            we decided to include agriculture in our model to predict HDI.
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="slide-wrap row">
+                                <div class="primary-image col-md-6 col-lg-5">
+                                    <img src="/static/images/GNI_HDI.png" alt="Gross National Income">
+                                </div>
+                                <div class="col-md-6 col-lg-7">
+                                    <div class="slide-text-wrap">
+
+                                        <!--Excerpt-->
+                                        <h3> Impact of National Income on Human Development Index (HDI)</h3><br>
+                                        <p> Relationship between per capita Gross National Income (GNI) and Human Development 
+                                            Index (HDI) appears weak with R2-value = 0.47 which means a country's per capita 
+                                            national income does not reveal much about HDI. It is true because national 
+                                            income does not indicate if it translates to better health, education and 
+                                            other HDI indicators.
+                                        </p>
+                                        <p> GNI is one of the components of HDI therefore despite weak relationship we decided to 
+                                            include GNI in our model to predict HDI.
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="slide-wrap row">
+                                <div class="primary-image col-md-6 col-lg-5">
+                                    <img src="/static/images/Employment_HDI.png" alt="Gross National Income">
+                                </div>
+                                <div class="col-md-6 col-lg-7">
+                                    <div class="slide-text-wrap">
+
+                                        <!--Excerpt-->
+                                        <h3> Impact of Employment on Human Development Index (HDI)</h3><br>
+                                        <p> Percentage of Employment do not appear to have significant relationship with HDI
+                                            with R2-value = 0.14. However, there seems to be positive correlation between them. 
+                                            
+                                        </p>
+                                        <p> Employment is not use as a indicator of HDI which could be one of the limitation of the 
+                                            current HDI. Broad employment opportunities should impact overall standard of living 
+                                            within a country. Therefore, percent employment was included in our model to predict HDI.
+                                        </p>
+                                        <br>
+                                        <br>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+
+                    <!-- Left and right controls -->
+                    <a class="carousel-control-prev" href="#edu" data-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#edu" data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                    </a>
+                </div>
+                <!--/.Carousel Wrapper-->
+
+            </div>
+<br>
+        </section>
+        <!-- Footer -->
+        <footer class="row">
+            <p>&copy;2020 Ellen Hsu, Samita Limbu, Lindsey McKenna - University of Oregon Data Analytics Boot Camp.</p>
+        </footer>
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    </div>
+</body>
+
+</html>
