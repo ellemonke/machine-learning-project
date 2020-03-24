@@ -35,7 +35,7 @@ def score_model(array):
     #  Basic Data Cleaning  #
     #########################
 
-    filepath = os.path.join('static','primary_pivot.csv')
+    filepath = os.path.join('static','resources','primary_pivot.csv')
     pivot_df = pd.read_csv(filepath)
 
     # Specify indicator(s)

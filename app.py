@@ -1,9 +1,13 @@
 # Import necessary libraries
+# from dotenv import load_dotenv
+# load_dotenv()
+# import os
 from flask import Flask, render_template, redirect, request
 # from flask_pymongo import PyMongo
 # import pymongo
 import predict
 
+# mapsApiKey = os.getenv("MAPS_API_KEY")
 
 # Create instance of Flask app
 app = Flask(__name__)
@@ -96,8 +100,8 @@ def score():
             hdi = 0   
 
         # Round to 2 decimal places
-        score = round(score, 2)
-        hdi = round(hdi, 2)
+        score = '{:.2f}'.format(round(score, 2))
+        hdi = '{:.2f}'.format(round(hdi, 2))
 
     return render_template('predictor.html', score=score, hdi=hdi, 
         lifeexpectancy=lifeexpectancy, agriculture=agriculture, gdp=gdp, gni=gni, population=population)
