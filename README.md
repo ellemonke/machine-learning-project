@@ -27,9 +27,9 @@ We primarily used a multilinear regression model because HDI was numerical (as o
 - Visualizations - Matplotlib
 - Publication - Flask App hosted on Heroku
 
-### Dates
-- **Sat, Feb 22:** Initial Analysis (choose 3-4 indicators/features, ML model)
-- **Mon, Feb 24:** Charts and Models due
-- **Wed, Feb 26:** (Edits & Revisions)
-- **Sat, Feb 29:** Front End App/Website due
-- **Mon, Mar 2: FINAL PRESENTATION**
+### Duration
+2 weeks
+
+### Screenshots
+<kbd><img src="screenshots/screenshot_machine_learning_1.png" width="430" /></kbd><kbd><img src="screenshots/screenshot_machine_learning_2.png" width="430" /></kbd><br />
+<kbd><img src="screenshots/screenshot_machine_learning_3.png" width="430" /></kbd><kbd><img src="screenshots/screenshot_machine_learning_4.png" width="430" /></kbd><br />
